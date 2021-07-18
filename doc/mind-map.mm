@@ -1,579 +1,514 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1626644616413" ID="ID_1219234877" MODIFIED="1626644661917" TEXT="New Mindmap">
-<node CREATED="1626644661120" FOLDED="true" ID="ID_1467534622" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/" MODIFIED="1626644665848" POSITION="right" TEXT="archives">
-<node CREATED="1626644661128" FOLDED="true" ID="ID_1442112994" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/assets/" MODIFIED="1626644661138" TEXT="assets">
-<node CREATED="1626644661134" ID="ID_1664692461" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/assets/.gitkeep" MODIFIED="1626644661137" TEXT=".gitkeep"/>
+<node CREATED="1626646794722" ID="ID_927888568" MODIFIED="1626646857617" TEXT="root">
+<node CREATED="1626646826161" ID="ID_298992271" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/" MODIFIED="1626647107218" POSITION="right" TEXT="archives">
+<node CREATED="1626646826163" FOLDED="true" ID="ID_1754751007" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/assets/" MODIFIED="1626646863012" TEXT="assets">
+<node CREATED="1626646826165" ID="ID_1158376988" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/assets/.gitkeep" MODIFIED="1626646826167" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661139" FOLDED="true" ID="ID_1245171781" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/" MODIFIED="1626644661185" TEXT="backups">
-<node CREATED="1626644661142" FOLDED="true" ID="ID_587480310" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/" MODIFIED="1626644661165" TEXT="applications">
-<node CREATED="1626644661145" FOLDED="true" ID="ID_1244995532" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/" MODIFIED="1626644661163" TEXT="mails">
-<node CREATED="1626644661149" FOLDED="true" ID="ID_1451047036" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/foo.bar@domain.tld/" MODIFIED="1626644661155" TEXT="foo.bar@domain.tld">
-<node CREATED="1626644661153" ID="ID_253499226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/foo.bar@domain.tld/.gitkeep" MODIFIED="1626644661155" TEXT=".gitkeep"/>
+<node CREATED="1626646826168" ID="ID_1552824171" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/" MODIFIED="1626646863448" TEXT="backups">
+<node CREATED="1626646826170" ID="ID_808856488" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/" MODIFIED="1626646870762" TEXT="applications">
+<node CREATED="1626646826172" ID="ID_1703029357" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/" MODIFIED="1626646872205" TEXT="mails">
+<node CREATED="1626646826174" FOLDED="true" ID="ID_1717317016" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/foo.bar@domain.tld/" MODIFIED="1626646875541" TEXT="foo.bar@domain.tld">
+<node CREATED="1626646826176" ID="ID_254316771" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/foo.bar@domain.tld/.gitkeep" MODIFIED="1626646826177" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661155" FOLDED="true" ID="ID_1567914516" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/local.part@domain.tld/" MODIFIED="1626644661160" TEXT="local.part@domain.tld">
-<node CREATED="1626644661158" ID="ID_1184054685" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/local.part@domain.tld/.gitkeep" MODIFIED="1626644661160" TEXT=".gitkeep"/>
+<node CREATED="1626646826178" FOLDED="true" ID="ID_1819036985" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/local.part@domain.tld/" MODIFIED="1626646874457" TEXT="local.part@domain.tld">
+<node CREATED="1626646826180" ID="ID_423240166" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/local.part@domain.tld/.gitkeep" MODIFIED="1626646826182" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661161" ID="ID_478704992" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/.gitkeep" MODIFIED="1626644661162" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661163" ID="ID_811195280" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/.gitkeep" MODIFIED="1626644661165" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661166" FOLDED="true" ID="ID_1252375494" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/clouds/" MODIFIED="1626644661170" TEXT="clouds">
-<node CREATED="1626644661168" ID="ID_1665968459" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/clouds/.gitkeep" MODIFIED="1626644661170" TEXT=".gitkeep"/>
+<node CREATED="1626646826183" FOLDED="true" ID="ID_1471291549" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/clouds/" MODIFIED="1626646870152" TEXT="clouds">
+<node CREATED="1626646826185" ID="ID_556731468" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/clouds/.gitkeep" MODIFIED="1626646826187" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661170" FOLDED="true" ID="ID_767857305" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/computers/" MODIFIED="1626644661175" TEXT="computers">
-<node CREATED="1626644661173" ID="ID_1561249833" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/computers/.gitkeep" MODIFIED="1626644661175" TEXT=".gitkeep"/>
+<node CREATED="1626646826187" FOLDED="true" ID="ID_1696282307" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/computers/" MODIFIED="1626646868639" TEXT="computers">
+<node CREATED="1626646826190" ID="ID_828296070" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/computers/.gitkeep" MODIFIED="1626646826191" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661175" FOLDED="true" ID="ID_1236204268" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/phones/" MODIFIED="1626644661182" TEXT="phones">
-<node CREATED="1626644661178" ID="ID_1431038780" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/phones/.gitkeep" MODIFIED="1626644661182" TEXT=".gitkeep"/>
+<node CREATED="1626646826192" FOLDED="true" ID="ID_1468270883" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/phones/" MODIFIED="1626646867634" TEXT="phones">
+<node CREATED="1626646826194" ID="ID_1238690316" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/phones/.gitkeep" MODIFIED="1626646826195" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661183" ID="ID_1833794084" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/.gitkeep" MODIFIED="1626644661184" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661185" FOLDED="true" ID="ID_1964332423" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/installers/" MODIFIED="1626644661189" TEXT="installers">
-<node CREATED="1626644661187" ID="ID_965749368" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/installers/.gitkeep" MODIFIED="1626644661189" TEXT=".gitkeep"/>
+<node CREATED="1626646826196" FOLDED="true" ID="ID_989128467" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/installers/" MODIFIED="1626646865679" TEXT="installers">
+<node CREATED="1626646826198" ID="ID_563298609" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/installers/.gitkeep" MODIFIED="1626646826200" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661190" ID="ID_64903640" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/.gitkeep" MODIFIED="1626644661191" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661192" FOLDED="true" ID="ID_467405076" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/" MODIFIED="1626644661513" POSITION="left" TEXT="documents">
-<node CREATED="1626644661195" FOLDED="true" ID="ID_628161572" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/" MODIFIED="1626644661467" TEXT="personal">
-<node CREATED="1626644661197" FOLDED="true" ID="ID_745242317" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/" MODIFIED="1626644661224" TEXT="family">
-<node CREATED="1626644661201" FOLDED="true" ID="ID_1649819599" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/pappa/" MODIFIED="1626644661205" TEXT="pappa">
-<node CREATED="1626644661203" ID="ID_850987788" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/pappa/.gitkeep" MODIFIED="1626644661205" TEXT=".gitkeep"/>
+<node CREATED="1626646826201" ID="ID_322840927" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/" MODIFIED="1626647109058" POSITION="left" TEXT="documents">
+<node CREATED="1626646826203" ID="ID_1225938361" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/" MODIFIED="1626646985886" TEXT="personal">
+<node CREATED="1626646826205" ID="ID_1848337331" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/" MODIFIED="1626646922730" TEXT="family">
+<node CREATED="1626646826208" FOLDED="true" ID="ID_659233075" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/pappa/" MODIFIED="1626646926209" TEXT="pappa">
+<node CREATED="1626646826210" ID="ID_1400553915" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/pappa/.gitkeep" MODIFIED="1626646826211" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661205" ID="ID_1723026403" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/.gitkeep" MODIFIED="1626644661207" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661225" FOLDED="true" ID="ID_1626931987" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/friends/" MODIFIED="1626644661230" TEXT="friends">
-<node CREATED="1626644661228" ID="ID_134194615" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/friends/.gitkeep" MODIFIED="1626644661230" TEXT=".gitkeep"/>
+<node CREATED="1626646826212" FOLDED="true" ID="ID_1559893366" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/friends/" MODIFIED="1626646927421" TEXT="friends">
+<node CREATED="1626646826215" ID="ID_101317746" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/friends/.gitkeep" MODIFIED="1626646826216" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661230" FOLDED="true" ID="ID_1697660706" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/" MODIFIED="1626644661244" TEXT="my-writing">
-<node CREATED="1626644661233" FOLDED="true" ID="ID_1376946570" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/diary/" MODIFIED="1626644661237" TEXT="diary">
-<node CREATED="1626644661236" ID="ID_1232666838" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/diary/.gitkeep" MODIFIED="1626644661237" TEXT=".gitkeep"/>
+<node CREATED="1626646826217" ID="ID_1829445561" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/" MODIFIED="1626646921624" TEXT="my-writing">
+<node CREATED="1626646826219" FOLDED="true" ID="ID_468656768" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/diary/" MODIFIED="1626646928415" TEXT="diary">
+<node CREATED="1626646826221" ID="ID_1798773810" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/diary/.gitkeep" MODIFIED="1626646826225" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661238" FOLDED="true" ID="ID_947543684" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/notes/" MODIFIED="1626644661242" TEXT="notes">
-<node CREATED="1626644661240" ID="ID_256245451" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/notes/.gitkeep" MODIFIED="1626644661242" TEXT=".gitkeep"/>
+<node CREATED="1626646826225" FOLDED="true" ID="ID_1972254003" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/notes/" MODIFIED="1626646929141" TEXT="notes">
+<node CREATED="1626646826228" ID="ID_384770027" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/notes/.gitkeep" MODIFIED="1626646826230" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661242" ID="ID_1063908447" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/.gitkeep" MODIFIED="1626644661244" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661245" FOLDED="true" ID="ID_1489017224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/" MODIFIED="1626644661325" TEXT="public">
-<node CREATED="1626644661248" FOLDED="true" ID="ID_222133246" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/" MODIFIED="1626644661295" TEXT="education">
-<node CREATED="1626644661250" FOLDED="true" ID="ID_1595932216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/" MODIFIED="1626644661274" TEXT="fhs">
-<node CREATED="1626644661252" FOLDED="true" ID="ID_141055054" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/" MODIFIED="1626644661272" TEXT="projects">
-<node CREATED="1626644661255" FOLDED="true" ID="ID_150894309" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/four-horsemen-of-the-dankopalypse/" MODIFIED="1626644661259" TEXT="four-horsemen-of-the-dankopalypse">
-<node CREATED="1626644661257" ID="ID_1562176057" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/four-horsemen-of-the-dankopalypse/.gitkeep" MODIFIED="1626644661259" TEXT=".gitkeep"/>
+<node CREATED="1626646826231" ID="ID_1080451925" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/" MODIFIED="1626646920878" TEXT="public">
+<node CREATED="1626646826232" ID="ID_832629643" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/" MODIFIED="1626646930760" TEXT="education">
+<node CREATED="1626646826234" ID="ID_777592965" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/" MODIFIED="1626646932153" TEXT="fhs">
+<node CREATED="1626646826236" ID="ID_1823701538" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/" MODIFIED="1626646933813" TEXT="projects">
+<node CREATED="1626646826238" FOLDED="true" ID="ID_1376915176" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/four-horsemen-of-the-dankopalypse/" MODIFIED="1626646826242" TEXT="four-horsemen-of-the-dankopalypse">
+<node CREATED="1626646826240" ID="ID_21996265" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/four-horsemen-of-the-dankopalypse/.gitkeep" MODIFIED="1626646826242" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661260" FOLDED="true" ID="ID_977251262" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/pillow-war/" MODIFIED="1626644661265" TEXT="pillow-war">
-<node CREATED="1626644661263" ID="ID_322244449" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/pillow-war/.gitkeep" MODIFIED="1626644661265" TEXT=".gitkeep"/>
+<node CREATED="1626646826242" FOLDED="true" ID="ID_621612109" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/pillow-war/" MODIFIED="1626646826246" TEXT="pillow-war">
+<node CREATED="1626646826244" ID="ID_432661672" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/pillow-war/.gitkeep" MODIFIED="1626646826246" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661266" FOLDED="true" ID="ID_1581515011" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/vaselingutta/" MODIFIED="1626644661270" TEXT="vaselingutta">
-<node CREATED="1626644661268" ID="ID_115258472" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/vaselingutta/.gitkeep" MODIFIED="1626644661269" TEXT=".gitkeep"/>
+<node CREATED="1626646826246" FOLDED="true" ID="ID_625657175" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/vaselingutta/" MODIFIED="1626646826250" TEXT="vaselingutta">
+<node CREATED="1626646826248" ID="ID_1232515723" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/vaselingutta/.gitkeep" MODIFIED="1626646826250" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661270" ID="ID_13328349" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/.gitkeep" MODIFIED="1626644661271" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661273" ID="ID_585724374" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/.gitkeep" MODIFIED="1626644661274" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661275" FOLDED="true" ID="ID_308816913" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/" MODIFIED="1626644661288" TEXT="uni">
-<node CREATED="1626644661277" FOLDED="true" ID="ID_214582668" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/" MODIFIED="1626644661286" TEXT="semester-1">
-<node CREATED="1626644661280" FOLDED="true" ID="ID_681126686" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/subject-1/" MODIFIED="1626644661284" TEXT="subject-1">
-<node CREATED="1626644661282" ID="ID_801930800" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/subject-1/.gitkeep" MODIFIED="1626644661284" TEXT=".gitkeep"/>
+<node CREATED="1626646826252" ID="ID_549891055" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/" MODIFIED="1626646936904" TEXT="uni">
+<node CREATED="1626646826254" ID="ID_1584173170" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/" MODIFIED="1626646937778" TEXT="semester-1">
+<node CREATED="1626646826256" FOLDED="true" ID="ID_1116715508" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/subject-1/" MODIFIED="1626646940644" TEXT="subject-1">
+<node CREATED="1626646826258" ID="ID_1922727861" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/subject-1/.gitkeep" MODIFIED="1626646826259" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661285" ID="ID_1858454087" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/.gitkeep" MODIFIED="1626644661286" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661287" ID="ID_231936502" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/.gitkeep" MODIFIED="1626644661288" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661289" FOLDED="true" ID="ID_899569922" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/vgs/" MODIFIED="1626644661293" TEXT="vgs">
-<node CREATED="1626644661291" ID="ID_1293310187" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/vgs/.gitkeep" MODIFIED="1626644661292" TEXT=".gitkeep"/>
+<node CREATED="1626646826260" FOLDED="true" ID="ID_1271428514" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/vgs/" MODIFIED="1626646942030" TEXT="vgs">
+<node CREATED="1626646826262" ID="ID_1226707608" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/vgs/.gitkeep" MODIFIED="1626646826263" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661293" ID="ID_414576079" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/.gitkeep" MODIFIED="1626644661295" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661296" FOLDED="true" ID="ID_820007143" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/" MODIFIED="1626644661323" TEXT="identity">
-<node CREATED="1626644661298" FOLDED="true" ID="ID_44032736" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/applications/" MODIFIED="1626644661303" TEXT="applications">
-<node CREATED="1626644661301" ID="ID_498671701" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/applications/.gitkeep" MODIFIED="1626644661302" TEXT=".gitkeep"/>
+<node CREATED="1626646826264" ID="ID_1269225989" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/" MODIFIED="1626646942992" TEXT="identity">
+<node CREATED="1626646826266" FOLDED="true" ID="ID_183802401" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/applications/" MODIFIED="1626646826270" TEXT="applications">
+<node CREATED="1626646826268" ID="ID_159950375" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/applications/.gitkeep" MODIFIED="1626646826270" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661303" FOLDED="true" ID="ID_610937854" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/cv/" MODIFIED="1626644661307" TEXT="cv">
-<node CREATED="1626644661305" ID="ID_705367313" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/cv/.gitkeep" MODIFIED="1626644661306" TEXT=".gitkeep"/>
+<node CREATED="1626646826270" FOLDED="true" ID="ID_1624810144" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/cv/" MODIFIED="1626646944653" TEXT="cv">
+<node CREATED="1626646826272" ID="ID_1712206820" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/cv/.gitkeep" MODIFIED="1626646826273" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661307" FOLDED="true" ID="ID_540215060" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/diplomas/" MODIFIED="1626644661311" TEXT="diplomas">
-<node CREATED="1626644661309" ID="ID_505248190" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/diplomas/.gitkeep" MODIFIED="1626644661311" TEXT=".gitkeep"/>
+<node CREATED="1626646826274" FOLDED="true" ID="ID_1091684779" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/diplomas/" MODIFIED="1626646945877" TEXT="diplomas">
+<node CREATED="1626646826276" ID="ID_697886848" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/diplomas/.gitkeep" MODIFIED="1626646826277" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661312" FOLDED="true" ID="ID_136663685" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/passport/" MODIFIED="1626644661316" TEXT="passport">
-<node CREATED="1626644661314" ID="ID_1911685385" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/passport/.gitkeep" MODIFIED="1626644661316" TEXT=".gitkeep"/>
+<node CREATED="1626646826278" FOLDED="true" ID="ID_570825609" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/passport/" MODIFIED="1626646946477" TEXT="passport">
+<node CREATED="1626646826280" ID="ID_860346036" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/passport/.gitkeep" MODIFIED="1626646826281" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661317" FOLDED="true" ID="ID_1350269969" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/work-certificates/" MODIFIED="1626644661320" TEXT="work-certificates">
-<node CREATED="1626644661319" ID="ID_636296001" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/work-certificates/.gitkeep" MODIFIED="1626644661320" TEXT=".gitkeep"/>
+<node CREATED="1626646826282" FOLDED="true" ID="ID_920124573" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/work-certificates/" MODIFIED="1626646947328" TEXT="work-certificates">
+<node CREATED="1626646826284" ID="ID_670643829" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/work-certificates/.gitkeep" MODIFIED="1626646826286" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661321" ID="ID_466976678" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/.gitkeep" MODIFIED="1626644661322" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661323" ID="ID_1560848879" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/.gitkeep" MODIFIED="1626644661325" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661326" FOLDED="true" ID="ID_1690389453" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/" MODIFIED="1626644661449" TEXT="resource">
-<node CREATED="1626644661328" FOLDED="true" ID="ID_257239462" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/" MODIFIED="1626644661348" TEXT="finance">
-<node CREATED="1626644661330" FOLDED="true" ID="ID_737220191" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/" MODIFIED="1626644661340" TEXT="(year)">
-<node CREATED="1626644661334" FOLDED="true" ID="ID_1251456344" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/statements/" MODIFIED="1626644661338" TEXT="statements">
-<node CREATED="1626644661336" ID="ID_305652054" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/statements/.gitkeep" MODIFIED="1626644661337" TEXT=".gitkeep"/>
+<node CREATED="1626646826287" ID="ID_13703665" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/" MODIFIED="1626646919912" TEXT="resource">
+<node CREATED="1626646826289" ID="ID_995495142" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/" MODIFIED="1626646949472" TEXT="finance">
+<node CREATED="1626646826291" ID="ID_1751756662" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/" MODIFIED="1626646950677" TEXT="(year)">
+<node CREATED="1626646826293" FOLDED="true" ID="ID_864543155" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/statements/" MODIFIED="1626646952505" TEXT="statements">
+<node CREATED="1626646826295" ID="ID_1887590572" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/statements/.gitkeep" MODIFIED="1626646826297" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661338" ID="ID_108679768" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/.gitkeep" MODIFIED="1626644661340" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661341" FOLDED="true" ID="ID_1138373271" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/health/" MODIFIED="1626644661345" TEXT="health">
-<node CREATED="1626644661343" ID="ID_1067256792" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/health/.gitkeep" MODIFIED="1626644661345" TEXT=".gitkeep"/>
+<node CREATED="1626646826298" FOLDED="true" ID="ID_818015573" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/health/" MODIFIED="1626646955829" TEXT="health">
+<node CREATED="1626646826300" ID="ID_289574958" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/health/.gitkeep" MODIFIED="1626646826301" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661346" ID="ID_710647903" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/.gitkeep" MODIFIED="1626644661347" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661348" FOLDED="true" ID="ID_1907268879" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/" MODIFIED="1626644661401" TEXT="health">
-<node CREATED="1626644661350" FOLDED="true" ID="ID_1194605403" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/" MODIFIED="1626644661358" TEXT="eyes">
-<node CREATED="1626644661352" FOLDED="true" ID="ID_1288121902" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/glasses/" MODIFIED="1626644661356" TEXT="glasses">
-<node CREATED="1626644661354" ID="ID_850243128" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/glasses/.gitkeep" MODIFIED="1626644661355" TEXT=".gitkeep"/>
+<node CREATED="1626646826302" ID="ID_122959963" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/" MODIFIED="1626646960349" TEXT="health">
+<node CREATED="1626646826304" ID="ID_598896601" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/" MODIFIED="1626646963501" TEXT="eyes">
+<node CREATED="1626646826306" FOLDED="true" ID="ID_703589054" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/glasses/" MODIFIED="1626646826309" TEXT="glasses">
+<node CREATED="1626646826308" ID="ID_457360092" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/glasses/.gitkeep" MODIFIED="1626646826309" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661356" ID="ID_1946813717" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/.gitkeep" MODIFIED="1626644661357" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661358" FOLDED="true" ID="ID_793925815" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/" MODIFIED="1626644661368" TEXT="feet">
-<node CREATED="1626644661360" FOLDED="true" ID="ID_1109011580" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/ingrown-nail/" MODIFIED="1626644661365" TEXT="ingrown-nail">
-<node CREATED="1626644661363" ID="ID_362942152" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/ingrown-nail/.gitkeep" MODIFIED="1626644661365" TEXT=".gitkeep"/>
+<node CREATED="1626646826310" ID="ID_1762593839" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/" MODIFIED="1626646964050" TEXT="feet">
+<node CREATED="1626646826312" FOLDED="true" ID="ID_39479850" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/ingrown-nail/" MODIFIED="1626646826315" TEXT="ingrown-nail">
+<node CREATED="1626646826314" ID="ID_318812346" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/ingrown-nail/.gitkeep" MODIFIED="1626646826315" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661366" ID="ID_1605552529" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/.gitkeep" MODIFIED="1626644661368" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661369" FOLDED="true" ID="ID_30601846" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/hands/" MODIFIED="1626644661373" TEXT="hands">
-<node CREATED="1626644661371" ID="ID_1244154338" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/hands/.gitkeep" MODIFIED="1626644661373" TEXT=".gitkeep"/>
+<node CREATED="1626646826316" FOLDED="true" ID="ID_1733150834" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/hands/" MODIFIED="1626646826320" TEXT="hands">
+<node CREATED="1626646826318" ID="ID_1060511537" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/hands/.gitkeep" MODIFIED="1626646826320" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661374" FOLDED="true" ID="ID_409520856" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/head/" MODIFIED="1626644661377" TEXT="head">
-<node CREATED="1626644661375" ID="ID_306529016" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/head/.gitkeep" MODIFIED="1626644661377" TEXT=".gitkeep"/>
+<node CREATED="1626646826320" FOLDED="true" ID="ID_1214865126" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/head/" MODIFIED="1626646826324" TEXT="head">
+<node CREATED="1626646826322" ID="ID_1544617325" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/head/.gitkeep" MODIFIED="1626646826323" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661378" FOLDED="true" ID="ID_1191928589" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/nose/" MODIFIED="1626644661382" TEXT="nose">
-<node CREATED="1626644661380" ID="ID_1923362083" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/nose/.gitkeep" MODIFIED="1626644661381" TEXT=".gitkeep"/>
+<node CREATED="1626646826324" FOLDED="true" ID="ID_377311663" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/nose/" MODIFIED="1626646826327" TEXT="nose">
+<node CREATED="1626646826326" ID="ID_1292680827" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/nose/.gitkeep" MODIFIED="1626646826327" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661382" FOLDED="true" ID="ID_1270298216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/" MODIFIED="1626644661390" TEXT="spine">
-<node CREATED="1626644661384" FOLDED="true" ID="ID_792668331" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/skoliosis/" MODIFIED="1626644661388" TEXT="skoliosis">
-<node CREATED="1626644661386" ID="ID_478251796" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/skoliosis/.gitkeep" MODIFIED="1626644661387" TEXT=".gitkeep"/>
+<node CREATED="1626646826328" ID="ID_1563734312" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/" MODIFIED="1626646965988" TEXT="spine">
+<node CREATED="1626646826330" FOLDED="true" ID="ID_106880520" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/skoliosis/" MODIFIED="1626646826334" TEXT="skoliosis">
+<node CREATED="1626646826332" ID="ID_601012526" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/skoliosis/.gitkeep" MODIFIED="1626646826334" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661388" ID="ID_1703272228" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/.gitkeep" MODIFIED="1626644661389" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661390" FOLDED="true" ID="ID_1775612397" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/stomach/" MODIFIED="1626644661394" TEXT="stomach">
-<node CREATED="1626644661392" ID="ID_352576794" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/stomach/.gitkeep" MODIFIED="1626644661394" TEXT=".gitkeep"/>
+<node CREATED="1626646826335" FOLDED="true" ID="ID_1209363599" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/stomach/" MODIFIED="1626646826339" TEXT="stomach">
+<node CREATED="1626646826337" ID="ID_1716997435" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/stomach/.gitkeep" MODIFIED="1626646826338" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661395" FOLDED="true" ID="ID_1204973860" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/teeth/" MODIFIED="1626644661398" TEXT="teeth">
-<node CREATED="1626644661396" ID="ID_1115243817" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/teeth/.gitkeep" MODIFIED="1626644661398" TEXT=".gitkeep"/>
+<node CREATED="1626646826339" FOLDED="true" ID="ID_1265539776" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/teeth/" MODIFIED="1626646826343" TEXT="teeth">
+<node CREATED="1626646826341" ID="ID_309658093" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/teeth/.gitkeep" MODIFIED="1626646826342" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661399" ID="ID_1130531967" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/.gitkeep" MODIFIED="1626644661400" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661401" FOLDED="true" ID="ID_1559103099" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/" MODIFIED="1626644661431" TEXT="home">
-<node CREATED="1626644661403" FOLDED="true" ID="ID_836398732" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/alta/" MODIFIED="1626644661407" TEXT="alta">
-<node CREATED="1626644661405" ID="ID_1237196264" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/alta/.gitkeep" MODIFIED="1626644661407" TEXT=".gitkeep"/>
+<node CREATED="1626646826344" ID="ID_1945881249" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/" MODIFIED="1626646967485" TEXT="home">
+<node CREATED="1626646826346" FOLDED="true" ID="ID_403551010" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/alta/" MODIFIED="1626646969929" TEXT="alta">
+<node CREATED="1626646826348" ID="ID_1435901101" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/alta/.gitkeep" MODIFIED="1626646826349" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661407" FOLDED="true" ID="ID_412836570" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/intventory/" MODIFIED="1626644661411" TEXT="intventory">
-<node CREATED="1626644661409" ID="ID_164816404" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/intventory/.gitkeep" MODIFIED="1626644661411" TEXT=".gitkeep"/>
+<node CREATED="1626646826350" FOLDED="true" ID="ID_33186573" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/intventory/" MODIFIED="1626646826353" TEXT="intventory">
+<node CREATED="1626646826351" ID="ID_797706313" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/intventory/.gitkeep" MODIFIED="1626646826353" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661412" FOLDED="true" ID="ID_1481876259" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/" MODIFIED="1626644661429" TEXT="troms&#xf8;">
-<node CREATED="1626644661414" FOLDED="true" ID="ID_621366280" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/" MODIFIED="1626644661427" TEXT="stakkevegen-28">
-<node CREATED="1626644661418" FOLDED="true" ID="ID_1090941566" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/contracts/" MODIFIED="1626644661421" TEXT="contracts">
-<node CREATED="1626644661420" ID="ID_1990496277" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/contracts/.gitkeep" MODIFIED="1626644661421" TEXT=".gitkeep"/>
+<node CREATED="1626646826354" ID="ID_1281843034" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/" MODIFIED="1626646970985" TEXT="troms&#xf8;">
+<node CREATED="1626646826355" ID="ID_480151107" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/" MODIFIED="1626646971859" TEXT="stakkevegen-28">
+<node CREATED="1626646826357" FOLDED="true" ID="ID_1867455493" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/contracts/" MODIFIED="1626646826361" TEXT="contracts">
+<node CREATED="1626646826360" ID="ID_1501441470" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/contracts/.gitkeep" MODIFIED="1626646826361" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661422" FOLDED="true" ID="ID_535895840" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/inventory/" MODIFIED="1626644661425" TEXT="inventory">
-<node CREATED="1626644661424" ID="ID_1648947207" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/inventory/.gitkeep" MODIFIED="1626644661425" TEXT=".gitkeep"/>
+<node CREATED="1626646826362" FOLDED="true" ID="ID_78576699" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/inventory/" MODIFIED="1626646826365" TEXT="inventory">
+<node CREATED="1626646826364" ID="ID_549714094" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/inventory/.gitkeep" MODIFIED="1626646826365" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661426" ID="ID_253618068" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/stakkevegen-28/.gitkeep" MODIFIED="1626644661427" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661428" ID="ID_1840464988" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/troms&#xf8;/.gitkeep" MODIFIED="1626644661429" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661430" ID="ID_1648631205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/.gitkeep" MODIFIED="1626644661431" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661432" FOLDED="true" ID="ID_576199113" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/scanned-documents/" MODIFIED="1626644661435" TEXT="scanned-documents">
-<node CREATED="1626644661434" ID="ID_935982844" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/scanned-documents/.gitkeep" MODIFIED="1626644661435" TEXT=".gitkeep"/>
+<node CREATED="1626646826367" FOLDED="true" ID="ID_565973361" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/scanned-documents/" MODIFIED="1626646826370" TEXT="scanned-documents">
+<node CREATED="1626646826368" ID="ID_230685686" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/scanned-documents/.gitkeep" MODIFIED="1626646826370" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661436" FOLDED="true" ID="ID_1041627359" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/" MODIFIED="1626644661447" TEXT="travel">
-<node CREATED="1626644661437" FOLDED="true" ID="ID_1569601166" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/" MODIFIED="1626644661445" TEXT="(year)">
-<node CREATED="1626644661439" FOLDED="true" ID="ID_1110696613" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/gran-canaria/" MODIFIED="1626644661443" TEXT="gran-canaria">
-<node CREATED="1626644661441" ID="ID_32555498" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/gran-canaria/.gitkeep" MODIFIED="1626644661443" TEXT=".gitkeep"/>
+<node CREATED="1626646826371" ID="ID_162122818" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/" MODIFIED="1626646975353" TEXT="travel">
+<node CREATED="1626646826373" ID="ID_966781077" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/" MODIFIED="1626646976232" TEXT="(year)">
+<node CREATED="1626646826375" FOLDED="true" ID="ID_1704147093" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/gran-canaria/" MODIFIED="1626646826378" TEXT="gran-canaria">
+<node CREATED="1626646826377" ID="ID_91637748" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/gran-canaria/.gitkeep" MODIFIED="1626646826378" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661443" ID="ID_562714547" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/.gitkeep" MODIFIED="1626644661444" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661445" ID="ID_637081396" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/.gitkeep" MODIFIED="1626644661446" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661447" ID="ID_1277343377" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/.gitkeep" MODIFIED="1626644661448" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661449" FOLDED="true" ID="ID_951574808" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/" MODIFIED="1626644661465" TEXT="shared">
-<node CREATED="1626644661451" FOLDED="true" ID="ID_749033945" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/" MODIFIED="1626644661459" TEXT="family">
-<node CREATED="1626644661453" FOLDED="true" ID="ID_1296603257" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/pappa/" MODIFIED="1626644661457" TEXT="pappa">
-<node CREATED="1626644661455" ID="ID_463955108" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/pappa/.gitkeep" MODIFIED="1626644661457" TEXT=".gitkeep"/>
+<node CREATED="1626646826380" ID="ID_952843449" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/" MODIFIED="1626646919240" TEXT="shared">
+<node CREATED="1626646826381" ID="ID_53526472" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/" MODIFIED="1626646977546" TEXT="family">
+<node CREATED="1626646826383" FOLDED="true" ID="ID_1492251802" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/pappa/" MODIFIED="1626646826388" TEXT="pappa">
+<node CREATED="1626646826385" ID="ID_1881698077" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/pappa/.gitkeep" MODIFIED="1626646826387" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661457" ID="ID_647713210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/.gitkeep" MODIFIED="1626644661458" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661459" FOLDED="true" ID="ID_579728725" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/friends/" MODIFIED="1626644661463" TEXT="friends">
-<node CREATED="1626644661461" ID="ID_1407698857" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/friends/.gitkeep" MODIFIED="1626644661462" TEXT=".gitkeep"/>
+<node CREATED="1626646826388" FOLDED="true" ID="ID_1621397187" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/friends/" MODIFIED="1626646980106" TEXT="friends">
+<node CREATED="1626646826390" ID="ID_1549713983" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/friends/.gitkeep" MODIFIED="1626646826391" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661463" ID="ID_620731181" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/.gitkeep" MODIFIED="1626644661464" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661465" ID="ID_409172525" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/.gitkeep" MODIFIED="1626644661466" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661467" FOLDED="true" ID="ID_683679378" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/" MODIFIED="1626644661511" TEXT="work">
-<node CREATED="1626644661469" FOLDED="true" ID="ID_211196746" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/campus-alta/" MODIFIED="1626644661472" TEXT="campus-alta">
-<node CREATED="1626644661471" ID="ID_90143409" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/campus-alta/.gitkeep" MODIFIED="1626644661472" TEXT=".gitkeep"/>
+<node CREATED="1626646826393" ID="ID_88307322" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/" MODIFIED="1626646987486" TEXT="work">
+<node CREATED="1626646826394" FOLDED="true" ID="ID_618361726" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/campus-alta/" MODIFIED="1626646909300" TEXT="campus-alta">
+<node CREATED="1626646826396" ID="ID_978983645" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/campus-alta/.gitkeep" MODIFIED="1626646826398" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661473" FOLDED="true" ID="ID_769810229" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/" MODIFIED="1626644661509" TEXT="dualog">
-<node CREATED="1626644661474" FOLDED="true" ID="ID_1478552220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/contracts/" MODIFIED="1626644661478" TEXT="contracts">
-<node CREATED="1626644661476" ID="ID_1951117884" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/contracts/.gitkeep" MODIFIED="1626644661478" TEXT=".gitkeep"/>
+<node CREATED="1626646826398" ID="ID_1919251765" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/" MODIFIED="1626646907061" TEXT="dualog">
+<node CREATED="1626646826400" FOLDED="true" ID="ID_409586357" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/contracts/" MODIFIED="1626646911334" TEXT="contracts">
+<node CREATED="1626646826402" ID="ID_487970729" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/contracts/.gitkeep" MODIFIED="1626646826404" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661478" FOLDED="true" ID="ID_1423277024" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/meetings/" MODIFIED="1626644661482" TEXT="meetings">
-<node CREATED="1626644661480" ID="ID_1248840198" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/meetings/.gitkeep" MODIFIED="1626644661482" TEXT=".gitkeep"/>
+<node CREATED="1626646826404" FOLDED="true" ID="ID_126998109" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/meetings/" MODIFIED="1626646912393" TEXT="meetings">
+<node CREATED="1626646826406" ID="ID_387497401" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/meetings/.gitkeep" MODIFIED="1626646826407" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661482" FOLDED="true" ID="ID_29627683" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/" MODIFIED="1626644661507" TEXT="project">
-<node CREATED="1626644661484" FOLDED="true" ID="ID_1884171383" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuite/" MODIFIED="1626644661488" TEXT="connectionSuite">
-<node CREATED="1626644661487" ID="ID_1389125324" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuite/.gitkeep" MODIFIED="1626644661488" TEXT=".gitkeep"/>
+<node CREATED="1626646826408" ID="ID_182893060" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/" MODIFIED="1626646913266" TEXT="project">
+<node CREATED="1626646826410" FOLDED="true" ID="ID_1402404763" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuite/" MODIFIED="1626646826413" TEXT="connectionSuite">
+<node CREATED="1626646826412" ID="ID_1577916687" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuite/.gitkeep" MODIFIED="1626646826413" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661489" FOLDED="true" ID="ID_1307075597" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuiteServer/" MODIFIED="1626644661492" TEXT="connectionSuiteServer">
-<node CREATED="1626644661491" ID="ID_1182059259" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuiteServer/.gitkeep" MODIFIED="1626644661492" TEXT=".gitkeep"/>
+<node CREATED="1626646826414" FOLDED="true" ID="ID_701303253" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuiteServer/" MODIFIED="1626646826417" TEXT="connectionSuiteServer">
+<node CREATED="1626646826415" ID="ID_579480935" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuiteServer/.gitkeep" MODIFIED="1626646826417" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661492" FOLDED="true" ID="ID_1149013923" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/selfService/" MODIFIED="1626644661496" TEXT="selfService">
-<node CREATED="1626644661494" ID="ID_1796310451" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/selfService/.gitkeep" MODIFIED="1626644661495" TEXT=".gitkeep"/>
+<node CREATED="1626646826418" FOLDED="true" ID="ID_1440192739" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/selfService/" MODIFIED="1626646826421" TEXT="selfService">
+<node CREATED="1626646826420" ID="ID_633691533" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/selfService/.gitkeep" MODIFIED="1626646826421" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661496" FOLDED="true" ID="ID_210120383" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUI/" MODIFIED="1626644661501" TEXT="shipGUI">
-<node CREATED="1626644661499" ID="ID_606378686" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUI/.gitkeep" MODIFIED="1626644661500" TEXT=".gitkeep"/>
+<node CREATED="1626646826422" FOLDED="true" ID="ID_5627091" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUI/" MODIFIED="1626646826425" TEXT="shipGUI">
+<node CREATED="1626646826423" ID="ID_745627782" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUI/.gitkeep" MODIFIED="1626646826425" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661501" FOLDED="true" ID="ID_429573007" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUIAPI/" MODIFIED="1626644661505" TEXT="shipGUIAPI">
-<node CREATED="1626644661504" ID="ID_159000810" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUIAPI/.gitkeep" MODIFIED="1626644661505" TEXT=".gitkeep"/>
+<node CREATED="1626646826425" FOLDED="true" ID="ID_640785234" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUIAPI/" MODIFIED="1626646826429" TEXT="shipGUIAPI">
+<node CREATED="1626646826427" ID="ID_1196468716" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUIAPI/.gitkeep" MODIFIED="1626646826429" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661506" ID="ID_764155098" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/.gitkeep" MODIFIED="1626644661507" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661508" ID="ID_1537248035" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/.gitkeep" MODIFIED="1626644661509" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661510" ID="ID_1737602855" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/.gitkeep" MODIFIED="1626644661511" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661512" ID="ID_857399168" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/.gitkeep" MODIFIED="1626644661513" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661514" FOLDED="true" ID="ID_1342144436" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/downloads/" MODIFIED="1626644661517" POSITION="right" TEXT="downloads">
-<node CREATED="1626644661515" ID="ID_1972963171" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/downloads/.gitkeep" MODIFIED="1626644661517" TEXT=".gitkeep"/>
+<node CREATED="1626646826431" ID="ID_1030146449" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/downloads/" MODIFIED="1626647104934" POSITION="right" TEXT="downloads">
+<node CREATED="1626646826432" ID="ID_280295435" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/downloads/.gitkeep" MODIFIED="1626646826434" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661517" FOLDED="true" ID="ID_931979628" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/" MODIFIED="1626644661759" POSITION="left" TEXT="media">
-<node CREATED="1626644661519" FOLDED="true" ID="ID_342932219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/" MODIFIED="1626644661542" TEXT="adult">
-<node CREATED="1626644661521" FOLDED="true" ID="ID_553034943" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/audio/" MODIFIED="1626644661525" TEXT="audio">
-<node CREATED="1626644661523" ID="ID_1349284837" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/audio/.gitkeep" MODIFIED="1626644661525" TEXT=".gitkeep"/>
+<node CREATED="1626646826434" ID="ID_1171492459" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/" MODIFIED="1626647110784" POSITION="left" TEXT="media">
+<node CREATED="1626646826436" ID="ID_1926970511" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/" MODIFIED="1626646890112" TEXT="adult">
+<node CREATED="1626646826438" FOLDED="true" ID="ID_1226965210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/audio/" MODIFIED="1626647000011" TEXT="audio">
+<node CREATED="1626646826440" ID="ID_738762725" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/audio/.gitkeep" MODIFIED="1626646826442" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661525" FOLDED="true" ID="ID_533305278" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/games/" MODIFIED="1626644661529" TEXT="games">
-<node CREATED="1626644661527" ID="ID_390204496" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/games/.gitkeep" MODIFIED="1626644661528" TEXT=".gitkeep"/>
+<node CREATED="1626646826442" FOLDED="true" ID="ID_908163470" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/games/" MODIFIED="1626647001131" TEXT="games">
+<node CREATED="1626646826444" ID="ID_1514206298" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/games/.gitkeep" MODIFIED="1626646826445" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661529" FOLDED="true" ID="ID_1903421967" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/images/" MODIFIED="1626644661532" TEXT="images">
-<node CREATED="1626644661531" ID="ID_1583837853" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/images/.gitkeep" MODIFIED="1626644661532" TEXT=".gitkeep"/>
+<node CREATED="1626646826446" FOLDED="true" ID="ID_271741434" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/images/" MODIFIED="1626647002219" TEXT="images">
+<node CREATED="1626646826447" ID="ID_801565763" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/images/.gitkeep" MODIFIED="1626646826448" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661533" FOLDED="true" ID="ID_431575043" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/literature/" MODIFIED="1626644661536" TEXT="literature">
-<node CREATED="1626644661534" ID="ID_1715113019" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/literature/.gitkeep" MODIFIED="1626644661535" TEXT=".gitkeep"/>
+<node CREATED="1626646826449" FOLDED="true" ID="ID_1947701573" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/literature/" MODIFIED="1626647003110" TEXT="literature">
+<node CREATED="1626646826451" ID="ID_413018573" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/literature/.gitkeep" MODIFIED="1626646826452" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661536" FOLDED="true" ID="ID_1738697296" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/video/" MODIFIED="1626644661540" TEXT="video">
-<node CREATED="1626644661538" ID="ID_814737962" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/video/.gitkeep" MODIFIED="1626644661539" TEXT=".gitkeep"/>
+<node CREATED="1626646826453" FOLDED="true" ID="ID_1268466697" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/video/" MODIFIED="1626647004551" TEXT="video">
+<node CREATED="1626646826455" ID="ID_1929007580" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/video/.gitkeep" MODIFIED="1626646826456" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661540" ID="ID_1784246005" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/.gitkeep" MODIFIED="1626644661541" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661542" FOLDED="true" ID="ID_1871565343" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/" MODIFIED="1626644661568" TEXT="audio">
-<node CREATED="1626644661544" FOLDED="true" ID="ID_521303047" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/books/" MODIFIED="1626644661547" TEXT="books">
-<node CREATED="1626644661546" ID="ID_395608307" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/books/.gitkeep" MODIFIED="1626644661547" TEXT=".gitkeep"/>
+<node CREATED="1626646826457" ID="ID_924291120" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/" MODIFIED="1626646888870" TEXT="audio">
+<node CREATED="1626646826458" FOLDED="true" ID="ID_493816371" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/books/" MODIFIED="1626647006523" TEXT="books">
+<node CREATED="1626646826460" ID="ID_1395801481" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/books/.gitkeep" MODIFIED="1626646826462" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661547" FOLDED="true" ID="ID_1488719411" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/" MODIFIED="1626644661558" TEXT="music">
-<node CREATED="1626644661549" FOLDED="true" ID="ID_868210090" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/ringtones/" MODIFIED="1626644661553" TEXT="ringtones">
-<node CREATED="1626644661551" ID="ID_1297054449" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/ringtones/.gitkeep" MODIFIED="1626644661553" TEXT=".gitkeep"/>
+<node CREATED="1626646826462" ID="ID_974304171" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/" MODIFIED="1626647007482" TEXT="music">
+<node CREATED="1626646826464" FOLDED="true" ID="ID_112020208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/ringtones/" MODIFIED="1626646826468" TEXT="ringtones">
+<node CREATED="1626646826466" ID="ID_221813090" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/ringtones/.gitkeep" MODIFIED="1626646826468" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661553" FOLDED="true" ID="ID_1893363677" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/soundtracks/" MODIFIED="1626644661557" TEXT="soundtracks">
-<node CREATED="1626644661555" ID="ID_944480551" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/soundtracks/.gitkeep" MODIFIED="1626644661556" TEXT=".gitkeep"/>
+<node CREATED="1626646826468" FOLDED="true" ID="ID_1744264882" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/soundtracks/" MODIFIED="1626646826471" TEXT="soundtracks">
+<node CREATED="1626646826470" ID="ID_1158531178" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/soundtracks/.gitkeep" MODIFIED="1626646826471" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661557" ID="ID_1598061959" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/.gitkeep" MODIFIED="1626644661558" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661559" FOLDED="true" ID="ID_328435366" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/my-audio/" MODIFIED="1626644661562" TEXT="my-audio">
-<node CREATED="1626644661560" ID="ID_1864277200" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/my-audio/.gitkeep" MODIFIED="1626644661562" TEXT=".gitkeep"/>
+<node CREATED="1626646826472" FOLDED="true" ID="ID_958204162" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/my-audio/" MODIFIED="1626647010008" TEXT="my-audio">
+<node CREATED="1626646826480" ID="ID_1410854529" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/my-audio/.gitkeep" MODIFIED="1626646826482" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661562" FOLDED="true" ID="ID_194420319" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/recordings/" MODIFIED="1626644661566" TEXT="recordings">
-<node CREATED="1626644661564" ID="ID_311558307" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/recordings/.gitkeep" MODIFIED="1626644661565" TEXT=".gitkeep"/>
+<node CREATED="1626646826482" FOLDED="true" ID="ID_1074469899" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/recordings/" MODIFIED="1626647012927" TEXT="recordings">
+<node CREATED="1626646826484" ID="ID_1077931023" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/recordings/.gitkeep" MODIFIED="1626646826485" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661566" ID="ID_1347017697" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/.gitkeep" MODIFIED="1626644661567" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661568" FOLDED="true" ID="ID_1356734025" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/" MODIFIED="1626644661594" TEXT="games">
-<node CREATED="1626644661570" FOLDED="true" ID="ID_1339787309" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/browser/" MODIFIED="1626644661574" TEXT="browser">
-<node CREATED="1626644661572" ID="ID_133751612" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/browser/.gitkeep" MODIFIED="1626644661574" TEXT=".gitkeep"/>
+<node CREATED="1626646826486" ID="ID_896914846" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/" MODIFIED="1626646886094" TEXT="games">
+<node CREATED="1626646826488" FOLDED="true" ID="ID_1467390184" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/browser/" MODIFIED="1626647013851" TEXT="browser">
+<node CREATED="1626646826490" ID="ID_182131084" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/browser/.gitkeep" MODIFIED="1626646826491" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661574" FOLDED="true" ID="ID_879510158" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/" MODIFIED="1626644661585" TEXT="computer">
-<node CREATED="1626644661576" FOLDED="true" ID="ID_56245314" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/minecraft/" MODIFIED="1626644661580" TEXT="minecraft">
-<node CREATED="1626644661578" ID="ID_1310632605" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/minecraft/.gitkeep" MODIFIED="1626644661579" TEXT=".gitkeep"/>
+<node CREATED="1626646826492" ID="ID_1582711350" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/" MODIFIED="1626647014499" TEXT="computer">
+<node CREATED="1626646826494" FOLDED="true" ID="ID_1944946026" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/minecraft/" MODIFIED="1626646826497" TEXT="minecraft">
+<node CREATED="1626646826496" ID="ID_245916127" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/minecraft/.gitkeep" MODIFIED="1626646826497" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661580" FOLDED="true" ID="ID_1502571597" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/osu!/" MODIFIED="1626644661583" TEXT="osu!">
-<node CREATED="1626644661582" ID="ID_1925070677" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/osu!/.gitkeep" MODIFIED="1626644661583" TEXT=".gitkeep"/>
+<node CREATED="1626646826497" FOLDED="true" ID="ID_1900770070" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/osu!/" MODIFIED="1626646826501" TEXT="osu!">
+<node CREATED="1626646826499" ID="ID_787869860" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/osu!/.gitkeep" MODIFIED="1626646826501" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661584" ID="ID_753703747" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/.gitkeep" MODIFIED="1626644661585" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661585" FOLDED="true" ID="ID_1768799168" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/console/" MODIFIED="1626644661589" TEXT="console">
-<node CREATED="1626644661587" ID="ID_268571861" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/console/.gitkeep" MODIFIED="1626644661589" TEXT=".gitkeep"/>
+<node CREATED="1626646826501" FOLDED="true" ID="ID_824050962" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/console/" MODIFIED="1626647016571" TEXT="console">
+<node CREATED="1626646826503" ID="ID_1194080584" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/console/.gitkeep" MODIFIED="1626646826505" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661589" FOLDED="true" ID="ID_736464066" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/handheld/" MODIFIED="1626644661592" TEXT="handheld">
-<node CREATED="1626644661591" ID="ID_541603599" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/handheld/.gitkeep" MODIFIED="1626644661592" TEXT=".gitkeep"/>
+<node CREATED="1626646826505" FOLDED="true" ID="ID_272025211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/handheld/" MODIFIED="1626647017633" TEXT="handheld">
+<node CREATED="1626646826507" ID="ID_1826942254" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/handheld/.gitkeep" MODIFIED="1626646826508" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661592" ID="ID_802664439" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/.gitkeep" MODIFIED="1626644661594" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661594" FOLDED="true" ID="ID_1875718866" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/" MODIFIED="1626644661680" TEXT="images">
-<node CREATED="1626644661596" FOLDED="true" ID="ID_1333123354" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/" MODIFIED="1626644661607" TEXT="artwork">
-<node CREATED="1626644661599" FOLDED="true" ID="ID_1521599865" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/digital-art/" MODIFIED="1626644661602" TEXT="digital-art">
-<node CREATED="1626644661600" ID="ID_368620353" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/digital-art/.gitkeep" MODIFIED="1626644661602" TEXT=".gitkeep"/>
+<node CREATED="1626646826509" ID="ID_776734727" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/" MODIFIED="1626646885078" TEXT="images">
+<node CREATED="1626646826511" ID="ID_987951632" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/" MODIFIED="1626647018154" TEXT="artwork">
+<node CREATED="1626646826513" FOLDED="true" ID="ID_807590921" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/digital-art/" MODIFIED="1626647019821" TEXT="digital-art">
+<node CREATED="1626646826515" ID="ID_278510710" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/digital-art/.gitkeep" MODIFIED="1626646826516" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661602" FOLDED="true" ID="ID_1920707815" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/physical-art/" MODIFIED="1626644661605" TEXT="physical-art">
-<node CREATED="1626644661604" ID="ID_347993755" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/physical-art/.gitkeep" MODIFIED="1626644661605" TEXT=".gitkeep"/>
+<node CREATED="1626646826517" FOLDED="true" ID="ID_1423281434" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/physical-art/" MODIFIED="1626647020607" TEXT="physical-art">
+<node CREATED="1626646826518" ID="ID_993530818" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/physical-art/.gitkeep" MODIFIED="1626646826520" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661606" ID="ID_1975442444" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/.gitkeep" MODIFIED="1626644661607" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661608" FOLDED="true" ID="ID_1775468809" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/charts/" MODIFIED="1626644661611" TEXT="charts">
-<node CREATED="1626644661609" ID="ID_1664715689" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/charts/.gitkeep" MODIFIED="1626644661611" TEXT=".gitkeep"/>
+<node CREATED="1626646826521" FOLDED="true" ID="ID_545459639" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/charts/" MODIFIED="1626647021906" TEXT="charts">
+<node CREATED="1626646826522" ID="ID_1525226193" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/charts/.gitkeep" MODIFIED="1626646826524" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661611" FOLDED="true" ID="ID_794320826" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/memes/" MODIFIED="1626644661614" TEXT="memes">
-<node CREATED="1626644661613" ID="ID_33839932" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/memes/.gitkeep" MODIFIED="1626644661614" TEXT=".gitkeep"/>
+<node CREATED="1626646826524" FOLDED="true" ID="ID_1949684400" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/memes/" MODIFIED="1626647023391" TEXT="memes">
+<node CREATED="1626646826526" ID="ID_397734709" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/memes/.gitkeep" MODIFIED="1626646826528" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661615" FOLDED="true" ID="ID_3651315" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/" MODIFIED="1626644661632" TEXT="my-images">
-<node CREATED="1626644661617" FOLDED="true" ID="ID_504314187" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/family/" MODIFIED="1626644661620" TEXT="family">
-<node CREATED="1626644661618" ID="ID_466983122" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/family/.gitkeep" MODIFIED="1626644661620" TEXT=".gitkeep"/>
+<node CREATED="1626646826528" ID="ID_748795627" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/" MODIFIED="1626647024819" TEXT="my-images">
+<node CREATED="1626646826530" FOLDED="true" ID="ID_286396745" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/family/" MODIFIED="1626647025934" TEXT="family">
+<node CREATED="1626646826532" ID="ID_1205998755" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/family/.gitkeep" MODIFIED="1626646826533" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661620" FOLDED="true" ID="ID_979411600" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/friends/" MODIFIED="1626644661624" TEXT="friends">
-<node CREATED="1626644661622" ID="ID_1479833894" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/friends/.gitkeep" MODIFIED="1626644661623" TEXT=".gitkeep"/>
+<node CREATED="1626646826534" FOLDED="true" ID="ID_8873062" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/friends/" MODIFIED="1626647026643" TEXT="friends">
+<node CREATED="1626646826536" ID="ID_475305702" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/friends/.gitkeep" MODIFIED="1626646826537" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661624" FOLDED="true" ID="ID_415081090" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/personal/" MODIFIED="1626644661627" TEXT="personal">
-<node CREATED="1626644661626" ID="ID_1195957875" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/personal/.gitkeep" MODIFIED="1626644661627" TEXT=".gitkeep"/>
+<node CREATED="1626646826538" FOLDED="true" ID="ID_1021185462" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/personal/" MODIFIED="1626647027244" TEXT="personal">
+<node CREATED="1626646826539" ID="ID_998799200" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/personal/.gitkeep" MODIFIED="1626646826541" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661627" FOLDED="true" ID="ID_281484833" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/work/" MODIFIED="1626644661631" TEXT="work">
-<node CREATED="1626644661629" ID="ID_110735951" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/work/.gitkeep" MODIFIED="1626644661630" TEXT=".gitkeep"/>
+<node CREATED="1626646826541" FOLDED="true" ID="ID_1622454221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/work/" MODIFIED="1626647028375" TEXT="work">
+<node CREATED="1626646826543" ID="ID_10161447" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/work/.gitkeep" MODIFIED="1626646826544" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661631" ID="ID_422611292" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/.gitkeep" MODIFIED="1626644661632" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661633" FOLDED="true" ID="ID_489752267" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/" MODIFIED="1626644661658" TEXT="purpose-based">
-<node CREATED="1626644661634" FOLDED="true" ID="ID_1263875961" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/backgrounds/" MODIFIED="1626644661637" TEXT="backgrounds">
-<node CREATED="1626644661636" ID="ID_137169362" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/backgrounds/.gitkeep" MODIFIED="1626644661637" TEXT=".gitkeep"/>
+<node CREATED="1626646826545" ID="ID_597481138" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/" MODIFIED="1626647029739" TEXT="purpose-based">
+<node CREATED="1626646826547" FOLDED="true" ID="ID_560255575" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/backgrounds/" MODIFIED="1626647031574" TEXT="backgrounds">
+<node CREATED="1626646826549" ID="ID_1137757269" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/backgrounds/.gitkeep" MODIFIED="1626646826550" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661638" FOLDED="true" ID="ID_875379840" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/icons/" MODIFIED="1626644661649" TEXT="icons">
-<node CREATED="1626644661647" ID="ID_1916502871" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/icons/.gitkeep" MODIFIED="1626644661649" TEXT=".gitkeep"/>
+<node CREATED="1626646826551" FOLDED="true" ID="ID_1388499702" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/icons/" MODIFIED="1626647032772" TEXT="icons">
+<node CREATED="1626646826552" ID="ID_1630690593" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/icons/.gitkeep" MODIFIED="1626646826554" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661649" FOLDED="true" ID="ID_614081280" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/logos/" MODIFIED="1626644661652" TEXT="logos">
-<node CREATED="1626644661651" ID="ID_287614605" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/logos/.gitkeep" MODIFIED="1626644661652" TEXT=".gitkeep"/>
+<node CREATED="1626646826554" FOLDED="true" ID="ID_1070553813" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/logos/" MODIFIED="1626647033547" TEXT="logos">
+<node CREATED="1626646826556" ID="ID_1381660169" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/logos/.gitkeep" MODIFIED="1626646826557" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661653" FOLDED="true" ID="ID_884278646" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/profile-pics/" MODIFIED="1626644661656" TEXT="profile-pics">
-<node CREATED="1626644661654" ID="ID_432217300" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/profile-pics/.gitkeep" MODIFIED="1626644661655" TEXT=".gitkeep"/>
+<node CREATED="1626646826558" FOLDED="true" ID="ID_910733466" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/profile-pics/" MODIFIED="1626647034536" TEXT="profile-pics">
+<node CREATED="1626646826560" ID="ID_1822641062" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/profile-pics/.gitkeep" MODIFIED="1626646826561" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661656" ID="ID_1502812330" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/.gitkeep" MODIFIED="1626644661657" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661658" FOLDED="true" ID="ID_1471378616" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/" MODIFIED="1626644661678" TEXT="screenshots">
-<node CREATED="1626644661660" FOLDED="true" ID="ID_1034493992" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/facebook/" MODIFIED="1626644661663" TEXT="facebook">
-<node CREATED="1626644661661" ID="ID_361101833" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/facebook/.gitkeep" MODIFIED="1626644661663" TEXT=".gitkeep"/>
+<node CREATED="1626646826562" ID="ID_1044381708" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/" MODIFIED="1626647035267" TEXT="screenshots">
+<node CREATED="1626646826564" FOLDED="true" ID="ID_1245693499" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/facebook/" MODIFIED="1626646826568" TEXT="facebook">
+<node CREATED="1626646826566" ID="ID_963411486" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/facebook/.gitkeep" MODIFIED="1626646826568" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661663" FOLDED="true" ID="ID_1184923322" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/minecraft/" MODIFIED="1626644661666" TEXT="minecraft">
-<node CREATED="1626644661665" ID="ID_1889569224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/minecraft/.gitkeep" MODIFIED="1626644661666" TEXT=".gitkeep"/>
+<node CREATED="1626646826568" FOLDED="true" ID="ID_233102839" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/minecraft/" MODIFIED="1626646826572" TEXT="minecraft">
+<node CREATED="1626646826570" ID="ID_1070307402" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/minecraft/.gitkeep" MODIFIED="1626646826571" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661667" FOLDED="true" ID="ID_1385341547" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/osu!/" MODIFIED="1626644661670" TEXT="osu!">
-<node CREATED="1626644661668" ID="ID_1178339933" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/osu!/.gitkeep" MODIFIED="1626644661669" TEXT=".gitkeep"/>
+<node CREATED="1626646826572" FOLDED="true" ID="ID_899750789" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/osu!/" MODIFIED="1626646826575" TEXT="osu!">
+<node CREATED="1626646826574" ID="ID_561756793" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/osu!/.gitkeep" MODIFIED="1626646826575" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661670" FOLDED="true" ID="ID_798598257" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/sms/" MODIFIED="1626644661673" TEXT="sms">
-<node CREATED="1626644661672" ID="ID_1517951031" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/sms/.gitkeep" MODIFIED="1626644661673" TEXT=".gitkeep"/>
+<node CREATED="1626646826575" FOLDED="true" ID="ID_188670858" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/sms/" MODIFIED="1626646826579" TEXT="sms">
+<node CREATED="1626646826577" ID="ID_1027104250" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/sms/.gitkeep" MODIFIED="1626646826578" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661673" FOLDED="true" ID="ID_1576527590" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/snapchat/" MODIFIED="1626644661676" TEXT="snapchat">
-<node CREATED="1626644661675" ID="ID_646714055" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/snapchat/.gitkeep" MODIFIED="1626644661676" TEXT=".gitkeep"/>
+<node CREATED="1626646826579" FOLDED="true" ID="ID_1287670202" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/snapchat/" MODIFIED="1626646826582" TEXT="snapchat">
+<node CREATED="1626646826581" ID="ID_88116087" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/snapchat/.gitkeep" MODIFIED="1626646826582" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661677" ID="ID_1966687557" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/.gitkeep" MODIFIED="1626644661678" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661678" ID="ID_1332511431" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/.gitkeep" MODIFIED="1626644661679" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661680" FOLDED="true" ID="ID_73550102" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/" MODIFIED="1626644661693" TEXT="literature">
-<node CREATED="1626644661682" FOLDED="true" ID="ID_1394227271" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/cartoons/" MODIFIED="1626644661685" TEXT="cartoons">
-<node CREATED="1626644661683" ID="ID_161677638" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/cartoons/.gitkeep" MODIFIED="1626644661685" TEXT=".gitkeep"/>
+<node CREATED="1626646826583" ID="ID_167109926" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/" MODIFIED="1626646884330" TEXT="literature">
+<node CREATED="1626646826585" FOLDED="true" ID="ID_817372143" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/cartoons/" MODIFIED="1626647038813" TEXT="cartoons">
+<node CREATED="1626646826587" ID="ID_1762867827" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/cartoons/.gitkeep" MODIFIED="1626646826589" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661685" FOLDED="true" ID="ID_221192122" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/ebooks/" MODIFIED="1626644661688" TEXT="ebooks">
-<node CREATED="1626644661687" ID="ID_621174334" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/ebooks/.gitkeep" MODIFIED="1626644661688" TEXT=".gitkeep"/>
+<node CREATED="1626646826589" FOLDED="true" ID="ID_306360830" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/ebooks/" MODIFIED="1626647039753" TEXT="ebooks">
+<node CREATED="1626646826591" ID="ID_1191831210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/ebooks/.gitkeep" MODIFIED="1626646826593" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661688" FOLDED="true" ID="ID_296358074" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/manga/" MODIFIED="1626644661691" TEXT="manga">
-<node CREATED="1626644661690" ID="ID_29524326" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/manga/.gitkeep" MODIFIED="1626644661691" TEXT=".gitkeep"/>
+<node CREATED="1626646826593" FOLDED="true" ID="ID_964913503" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/manga/" MODIFIED="1626646826596" TEXT="manga">
+<node CREATED="1626646826595" ID="ID_614079091" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/manga/.gitkeep" MODIFIED="1626646826596" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661692" ID="ID_1001494958" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/.gitkeep" MODIFIED="1626644661693" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661693" FOLDED="true" ID="ID_823616826" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/" MODIFIED="1626644661757" TEXT="videos">
-<node CREATED="1626644661695" FOLDED="true" ID="ID_1279303157" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/" MODIFIED="1626644661704" TEXT="anime">
-<node CREATED="1626644661697" FOLDED="true" ID="ID_1881421753" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/movies/" MODIFIED="1626644661700" TEXT="movies">
-<node CREATED="1626644661698" ID="ID_501349410" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/movies/.gitkeep" MODIFIED="1626644661699" TEXT=".gitkeep"/>
+<node CREATED="1626646826597" ID="ID_1756171351" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/" MODIFIED="1626646883164" TEXT="videos">
+<node CREATED="1626646826599" ID="ID_243504581" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/" MODIFIED="1626647041934" TEXT="anime">
+<node CREATED="1626646826601" FOLDED="true" ID="ID_553913343" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/movies/" MODIFIED="1626647044427" TEXT="movies">
+<node CREATED="1626646826603" ID="ID_255833785" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/movies/.gitkeep" MODIFIED="1626646826604" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661700" FOLDED="true" ID="ID_521517351" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/shows/" MODIFIED="1626644661703" TEXT="shows">
-<node CREATED="1626644661701" ID="ID_1524493450" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/shows/.gitkeep" MODIFIED="1626644661703" TEXT=".gitkeep"/>
+<node CREATED="1626646826605" FOLDED="true" ID="ID_848718369" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/shows/" MODIFIED="1626647045143" TEXT="shows">
+<node CREATED="1626646826607" ID="ID_1013174105" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/shows/.gitkeep" MODIFIED="1626646826608" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661703" ID="ID_1363499144" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/.gitkeep" MODIFIED="1626644661704" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661705" FOLDED="true" ID="ID_1537220628" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/" MODIFIED="1626644661715" TEXT="cartoons">
-<node CREATED="1626644661706" FOLDED="true" ID="ID_557620510" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/movies/" MODIFIED="1626644661710" TEXT="movies">
-<node CREATED="1626644661708" ID="ID_605624900" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/movies/.gitkeep" MODIFIED="1626644661710" TEXT=".gitkeep"/>
+<node CREATED="1626646826609" ID="ID_779296223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/" MODIFIED="1626647045978" TEXT="cartoons">
+<node CREATED="1626646826611" FOLDED="true" ID="ID_100551761" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/movies/" MODIFIED="1626646826614" TEXT="movies">
+<node CREATED="1626646826613" ID="ID_78432689" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/movies/.gitkeep" MODIFIED="1626646826614" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661710" FOLDED="true" ID="ID_824519809" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/shows/" MODIFIED="1626644661713" TEXT="shows">
-<node CREATED="1626644661712" ID="ID_1123731007" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/shows/.gitkeep" MODIFIED="1626644661713" TEXT=".gitkeep"/>
+<node CREATED="1626646826615" FOLDED="true" ID="ID_1354821817" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/shows/" MODIFIED="1626646826618" TEXT="shows">
+<node CREATED="1626646826616" ID="ID_352832211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/shows/.gitkeep" MODIFIED="1626646826618" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661713" ID="ID_1811035829" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/.gitkeep" MODIFIED="1626644661714" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661715" FOLDED="true" ID="ID_739338284" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/" MODIFIED="1626644661729" TEXT="movies">
-<node CREATED="1626644661717" FOLDED="true" ID="ID_529183775" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/documentaries/" MODIFIED="1626644661720" TEXT="documentaries">
-<node CREATED="1626644661719" ID="ID_541925947" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/documentaries/.gitkeep" MODIFIED="1626644661720" TEXT=".gitkeep"/>
+<node CREATED="1626646826618" ID="ID_680856876" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/" MODIFIED="1626647046810" TEXT="movies">
+<node CREATED="1626646826620" FOLDED="true" ID="ID_557739986" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/documentaries/" MODIFIED="1626646826624" TEXT="documentaries">
+<node CREATED="1626646826622" ID="ID_1795922906" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/documentaries/.gitkeep" MODIFIED="1626646826624" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661721" FOLDED="true" ID="ID_378620854" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/short-films/" MODIFIED="1626644661724" TEXT="short-films">
-<node CREATED="1626644661723" ID="ID_288420873" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/short-films/.gitkeep" MODIFIED="1626644661724" TEXT=".gitkeep"/>
+<node CREATED="1626646826624" FOLDED="true" ID="ID_1232633090" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/short-films/" MODIFIED="1626646826628" TEXT="short-films">
+<node CREATED="1626646826626" ID="ID_1267803135" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/short-films/.gitkeep" MODIFIED="1626646826627" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661724" FOLDED="true" ID="ID_423192771" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/timelapses/" MODIFIED="1626644661728" TEXT="timelapses">
-<node CREATED="1626644661726" ID="ID_929830132" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/timelapses/.gitkeep" MODIFIED="1626644661727" TEXT=".gitkeep"/>
+<node CREATED="1626646826628" FOLDED="true" ID="ID_1936973802" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/timelapses/" MODIFIED="1626646826631" TEXT="timelapses">
+<node CREATED="1626646826630" ID="ID_291520170" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/timelapses/.gitkeep" MODIFIED="1626646826631" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661728" ID="ID_1336628583" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/.gitkeep" MODIFIED="1626644661729" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661730" FOLDED="true" ID="ID_1238274712" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/my-videos/" MODIFIED="1626644661732" TEXT="my-videos">
-<node CREATED="1626644661731" ID="ID_1650329929" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/my-videos/.gitkeep" MODIFIED="1626644661732" TEXT=".gitkeep"/>
+<node CREATED="1626646826632" FOLDED="true" ID="ID_882923924" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/my-videos/" MODIFIED="1626647049186" TEXT="my-videos">
+<node CREATED="1626646826633" ID="ID_23259390" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/my-videos/.gitkeep" MODIFIED="1626646826635" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661733" FOLDED="true" ID="ID_1984755101" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/screencasts/" MODIFIED="1626644661736" TEXT="screencasts">
-<node CREATED="1626644661734" ID="ID_1771282320" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/screencasts/.gitkeep" MODIFIED="1626644661735" TEXT=".gitkeep"/>
+<node CREATED="1626646826635" FOLDED="true" ID="ID_1797070565" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/screencasts/" MODIFIED="1626647050358" TEXT="screencasts">
+<node CREATED="1626646826637" ID="ID_1593418202" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/screencasts/.gitkeep" MODIFIED="1626646826639" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661736" FOLDED="true" ID="ID_1935175138" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/shows/" MODIFIED="1626644661739" TEXT="shows">
-<node CREATED="1626644661737" ID="ID_620716652" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/shows/.gitkeep" MODIFIED="1626644661739" TEXT=".gitkeep"/>
+<node CREATED="1626646826639" FOLDED="true" ID="ID_1748065809" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/shows/" MODIFIED="1626647051331" TEXT="shows">
+<node CREATED="1626646826641" ID="ID_1181042905" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/shows/.gitkeep" MODIFIED="1626646826642" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661739" FOLDED="true" ID="ID_1323873180" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/" MODIFIED="1626644661756" TEXT="web">
-<node CREATED="1626644661741" FOLDED="true" ID="ID_1065494328" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/clips/" MODIFIED="1626644661744" TEXT="clips">
-<node CREATED="1626644661742" ID="ID_132804416" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/clips/.gitkeep" MODIFIED="1626644661744" TEXT=".gitkeep"/>
+<node CREATED="1626646826643" ID="ID_1104098079" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/" MODIFIED="1626647051781" TEXT="web">
+<node CREATED="1626646826644" FOLDED="true" ID="ID_661618984" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/clips/" MODIFIED="1626646826648" TEXT="clips">
+<node CREATED="1626646826647" ID="ID_367359444" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/clips/.gitkeep" MODIFIED="1626646826648" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661744" FOLDED="true" ID="ID_1709388084" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/gifs/" MODIFIED="1626644661747" TEXT="gifs">
-<node CREATED="1626644661746" ID="ID_689776329" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/gifs/.gitkeep" MODIFIED="1626644661747" TEXT=".gitkeep"/>
+<node CREATED="1626646826648" FOLDED="true" ID="ID_760055891" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/gifs/" MODIFIED="1626646826652" TEXT="gifs">
+<node CREATED="1626646826650" ID="ID_1542744018" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/gifs/.gitkeep" MODIFIED="1626646826652" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661747" FOLDED="true" ID="ID_445550872" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/memes/" MODIFIED="1626644661750" TEXT="memes">
-<node CREATED="1626644661749" ID="ID_676609144" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/memes/.gitkeep" MODIFIED="1626644661750" TEXT=".gitkeep"/>
+<node CREATED="1626646826652" FOLDED="true" ID="ID_1553239854" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/memes/" MODIFIED="1626646826655" TEXT="memes">
+<node CREATED="1626646826654" ID="ID_758521330" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/memes/.gitkeep" MODIFIED="1626646826655" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661751" FOLDED="true" ID="ID_19137740" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/music-videos/" MODIFIED="1626644661754" TEXT="music-videos">
-<node CREATED="1626644661752" ID="ID_1626923475" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/music-videos/.gitkeep" MODIFIED="1626644661754" TEXT=".gitkeep"/>
+<node CREATED="1626646826656" FOLDED="true" ID="ID_1635035541" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/music-videos/" MODIFIED="1626646826659" TEXT="music-videos">
+<node CREATED="1626646826657" ID="ID_140222634" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/music-videos/.gitkeep" MODIFIED="1626646826659" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661754" ID="ID_1328195904" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/.gitkeep" MODIFIED="1626644661755" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661756" ID="ID_1024557392" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/.gitkeep" MODIFIED="1626644661757" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661758" ID="ID_401844182" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/.gitkeep" MODIFIED="1626644661759" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661760" FOLDED="true" ID="ID_1694795344" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/" MODIFIED="1626644661915" POSITION="right" TEXT="software">
-<node CREATED="1626644661761" FOLDED="true" ID="ID_1106852997" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/" MODIFIED="1626644661800" TEXT="applications">
-<node CREATED="1626644661763" FOLDED="true" ID="ID_223060325" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/apps/" MODIFIED="1626644661767" TEXT="apps">
-<node CREATED="1626644661765" ID="ID_1956070270" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/apps/.gitkeep" MODIFIED="1626644661766" TEXT=".gitkeep"/>
+<node CREATED="1626646826661" ID="ID_859878401" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/" MODIFIED="1626647102743" POSITION="right" TEXT="software">
+<node CREATED="1626646826662" ID="ID_1172497520" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/" MODIFIED="1626646876624" TEXT="applications">
+<node CREATED="1626646826664" FOLDED="true" ID="ID_986161760" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/apps/" MODIFIED="1626647065254" TEXT="apps">
+<node CREATED="1626646826666" ID="ID_1702854764" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/apps/.gitkeep" MODIFIED="1626646826667" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661767" FOLDED="true" ID="ID_1473710114" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/back-end/" MODIFIED="1626644661770" TEXT="back-end">
-<node CREATED="1626644661769" ID="ID_277541314" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/back-end/.gitkeep" MODIFIED="1626644661770" TEXT=".gitkeep"/>
+<node CREATED="1626646826668" FOLDED="true" ID="ID_169801595" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/back-end/" MODIFIED="1626647066652" TEXT="back-end">
+<node CREATED="1626646826670" ID="ID_78792504" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/back-end/.gitkeep" MODIFIED="1626646826671" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661770" FOLDED="true" ID="ID_696534030" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/" MODIFIED="1626644661777" TEXT="desktop">
-<node CREATED="1626644661772" FOLDED="true" ID="ID_163577301" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/discord/" MODIFIED="1626644661776" TEXT="discord">
-<node CREATED="1626644661774" ID="ID_271556425" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/discord/.gitkeep" MODIFIED="1626644661775" TEXT=".gitkeep"/>
+<node CREATED="1626646826672" ID="ID_332203674" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/" MODIFIED="1626647067628" TEXT="desktop">
+<node CREATED="1626646826673" FOLDED="true" ID="ID_37916595" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/discord/" MODIFIED="1626646826677" TEXT="discord">
+<node CREATED="1626646826675" ID="ID_1826774070" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/discord/.gitkeep" MODIFIED="1626646826676" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661776" ID="ID_1653154188" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/.gitkeep" MODIFIED="1626644661777" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661778" FOLDED="true" ID="ID_847122955" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/installers/" MODIFIED="1626644661781" TEXT="installers">
-<node CREATED="1626644661779" ID="ID_1313694104" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/installers/.gitkeep" MODIFIED="1626644661781" TEXT=".gitkeep"/>
+<node CREATED="1626646826677" FOLDED="true" ID="ID_336816543" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/installers/" MODIFIED="1626647069109" TEXT="installers">
+<node CREATED="1626646826679" ID="ID_300068365" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/installers/.gitkeep" MODIFIED="1626646826681" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661781" FOLDED="true" ID="ID_919387243" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/os/" MODIFIED="1626644661784" TEXT="os">
-<node CREATED="1626644661783" ID="ID_1132711008" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/os/.gitkeep" MODIFIED="1626644661784" TEXT=".gitkeep"/>
+<node CREATED="1626646826681" FOLDED="true" ID="ID_1091722365" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/os/" MODIFIED="1626647070135" TEXT="os">
+<node CREATED="1626646826683" ID="ID_595984882" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/os/.gitkeep" MODIFIED="1626646826685" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661784" FOLDED="true" ID="ID_1525776488" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/" MODIFIED="1626644661795" TEXT="scripts">
-<node CREATED="1626644661786" FOLDED="true" ID="ID_498552290" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/c/" MODIFIED="1626644661789" TEXT="c">
-<node CREATED="1626644661788" ID="ID_1769249245" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/c/.gitkeep" MODIFIED="1626644661789" TEXT=".gitkeep"/>
+<node CREATED="1626646826685" ID="ID_1236678198" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/" MODIFIED="1626647070657" TEXT="scripts">
+<node CREATED="1626646826687" FOLDED="true" ID="ID_138142573" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/c/" MODIFIED="1626646826690" TEXT="c">
+<node CREATED="1626646826689" ID="ID_308443978" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/c/.gitkeep" MODIFIED="1626646826690" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661790" FOLDED="true" ID="ID_794644330" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/python/" MODIFIED="1626644661793" TEXT="python">
-<node CREATED="1626644661791" ID="ID_1497728167" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/python/.gitkeep" MODIFIED="1626644661792" TEXT=".gitkeep"/>
+<node CREATED="1626646826691" FOLDED="true" ID="ID_306866621" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/python/" MODIFIED="1626646826694" TEXT="python">
+<node CREATED="1626646826692" ID="ID_703193737" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/python/.gitkeep" MODIFIED="1626646826694" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661793" ID="ID_407398419" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/.gitkeep" MODIFIED="1626644661794" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661795" FOLDED="true" ID="ID_780190937" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/web/" MODIFIED="1626644661798" TEXT="web">
-<node CREATED="1626644661796" ID="ID_1869999666" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/web/.gitkeep" MODIFIED="1626644661798" TEXT=".gitkeep"/>
+<node CREATED="1626646826695" FOLDED="true" ID="ID_509344504" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/web/" MODIFIED="1626647072864" TEXT="web">
+<node CREATED="1626646826696" ID="ID_1809766700" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/web/.gitkeep" MODIFIED="1626646826698" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661798" ID="ID_1478134220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/.gitkeep" MODIFIED="1626644661799" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661800" FOLDED="true" ID="ID_1963376734" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/" MODIFIED="1626644661838" TEXT="dotfiles">
-<node CREATED="1626644661802" FOLDED="true" ID="ID_1530987894" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/bin/" MODIFIED="1626644661805" TEXT="bin">
-<node CREATED="1626644661803" ID="ID_789624452" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/bin/.gitkeep" MODIFIED="1626644661805" TEXT=".gitkeep"/>
+<node CREATED="1626646826699" ID="ID_1595551460" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/" MODIFIED="1626646878342" TEXT="dotfiles">
+<node CREATED="1626646826700" FOLDED="true" ID="ID_947244813" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/bin/" MODIFIED="1626647074479" TEXT="bin">
+<node CREATED="1626646826702" ID="ID_509408461" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/bin/.gitkeep" MODIFIED="1626646826703" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661805" FOLDED="true" ID="ID_1512134930" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/etc/" MODIFIED="1626644661808" TEXT="etc">
-<node CREATED="1626644661807" ID="ID_1656134578" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/etc/.gitkeep" MODIFIED="1626644661808" TEXT=".gitkeep"/>
+<node CREATED="1626646826704" FOLDED="true" ID="ID_1709930296" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/etc/" MODIFIED="1626646826707" TEXT="etc">
+<node CREATED="1626646826706" ID="ID_84001542" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/etc/.gitkeep" MODIFIED="1626646826707" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661809" FOLDED="true" ID="ID_1505949858" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/" MODIFIED="1626644661815" TEXT="home">
-<node CREATED="1626644661810" FOLDED="true" ID="ID_359069243" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/config/" MODIFIED="1626644661814" TEXT="config">
-<node CREATED="1626644661812" ID="ID_663686939" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/config/.gitkeep" MODIFIED="1626644661813" TEXT=".gitkeep"/>
+<node CREATED="1626646826708" ID="ID_258412017" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/" MODIFIED="1626647075377" TEXT="home">
+<node CREATED="1626646826709" FOLDED="true" ID="ID_1396300436" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/config/" MODIFIED="1626646826713" TEXT="config">
+<node CREATED="1626646826711" ID="ID_1114250418" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/config/.gitkeep" MODIFIED="1626646826713" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661814" ID="ID_1222456471" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/.gitkeep" MODIFIED="1626644661815" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661816" FOLDED="true" ID="ID_1511534123" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/lib/" MODIFIED="1626644661819" TEXT="lib">
-<node CREATED="1626644661817" ID="ID_1603144640" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/lib/.gitkeep" MODIFIED="1626644661819" TEXT=".gitkeep"/>
+<node CREATED="1626646826713" FOLDED="true" ID="ID_968906285" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/lib/" MODIFIED="1626647076736" TEXT="lib">
+<node CREATED="1626646826715" ID="ID_1737853826" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/lib/.gitkeep" MODIFIED="1626646826716" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661819" FOLDED="true" ID="ID_1994459660" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/private/" MODIFIED="1626644661822" TEXT="private">
-<node CREATED="1626644661821" ID="ID_1987396446" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/private/.gitkeep" MODIFIED="1626644661822" TEXT=".gitkeep"/>
+<node CREATED="1626646826717" FOLDED="true" ID="ID_1466582238" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/private/" MODIFIED="1626647077671" TEXT="private">
+<node CREATED="1626646826718" ID="ID_1860268644" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/private/.gitkeep" MODIFIED="1626646826720" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661822" FOLDED="true" ID="ID_1621810424" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/" MODIFIED="1626644661829" TEXT="share">
-<node CREATED="1626644661824" FOLDED="true" ID="ID_1307574586" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/fonts/" MODIFIED="1626644661827" TEXT="fonts">
-<node CREATED="1626644661826" ID="ID_1253864472" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/fonts/.gitkeep" MODIFIED="1626644661827" TEXT=".gitkeep"/>
+<node CREATED="1626646826720" ID="ID_734656545" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/" MODIFIED="1626647078301" TEXT="share">
+<node CREATED="1626646826722" FOLDED="true" ID="ID_123082763" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/fonts/" MODIFIED="1626646826725" TEXT="fonts">
+<node CREATED="1626646826724" ID="ID_1441080169" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/fonts/.gitkeep" MODIFIED="1626646826725" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661828" ID="ID_1637738178" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/.gitkeep" MODIFIED="1626644661829" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661830" FOLDED="true" ID="ID_1270058518" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/shell/" MODIFIED="1626644661833" TEXT="shell">
-<node CREATED="1626644661831" ID="ID_944270750" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/shell/.gitkeep" MODIFIED="1626644661833" TEXT=".gitkeep"/>
+<node CREATED="1626646826726" FOLDED="true" ID="ID_1240831686" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/shell/" MODIFIED="1626647079225" TEXT="shell">
+<node CREATED="1626646826728" ID="ID_360783405" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/shell/.gitkeep" MODIFIED="1626646826729" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661833" FOLDED="true" ID="ID_444091549" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/src/" MODIFIED="1626644661836" TEXT="src">
-<node CREATED="1626644661835" ID="ID_828193" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/src/.gitkeep" MODIFIED="1626644661836" TEXT=".gitkeep"/>
+<node CREATED="1626646826729" FOLDED="true" ID="ID_1594336544" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/src/" MODIFIED="1626647079886" TEXT="src">
+<node CREATED="1626646826731" ID="ID_1133269407" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/src/.gitkeep" MODIFIED="1626646826732" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661837" ID="ID_1319811773" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/.gitkeep" MODIFIED="1626644661838" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661839" FOLDED="true" ID="ID_82899131" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/" MODIFIED="1626644661886" TEXT="resources">
-<node CREATED="1626644661840" FOLDED="true" ID="ID_1982841614" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/" MODIFIED="1626644661861" TEXT="bookmarks">
-<node CREATED="1626644661842" FOLDED="true" ID="ID_1798038811" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/education/" MODIFIED="1626644661845" TEXT="education">
-<node CREATED="1626644661844" ID="ID_1175293647" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/education/.gitkeep" MODIFIED="1626644661845" TEXT=".gitkeep"/>
+<node CREATED="1626646826734" ID="ID_1635460442" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/" MODIFIED="1626646879900" TEXT="resources">
+<node CREATED="1626646826735" ID="ID_384016503" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/" MODIFIED="1626647081050" TEXT="bookmarks">
+<node CREATED="1626646826737" FOLDED="true" ID="ID_1189793158" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/education/" MODIFIED="1626647083041" TEXT="education">
+<node CREATED="1626646826739" ID="ID_264614197" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/education/.gitkeep" MODIFIED="1626646826741" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661846" FOLDED="true" ID="ID_1843600377" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/" MODIFIED="1626644661852" TEXT="personal">
-<node CREATED="1626644661847" FOLDED="true" ID="ID_1645834821" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/health/" MODIFIED="1626644661851" TEXT="health">
-<node CREATED="1626644661849" ID="ID_694261621" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/health/.gitkeep" MODIFIED="1626644661850" TEXT=".gitkeep"/>
+<node CREATED="1626646826741" ID="ID_988617124" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/" MODIFIED="1626647083438" TEXT="personal">
+<node CREATED="1626646826743" FOLDED="true" ID="ID_69270129" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/health/" MODIFIED="1626647085091" TEXT="health">
+<node CREATED="1626646826745" ID="ID_941208002" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/health/.gitkeep" MODIFIED="1626646826746" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661851" ID="ID_595536127" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/.gitkeep" MODIFIED="1626644661852" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661853" FOLDED="true" ID="ID_463353380" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/" MODIFIED="1626644661859" TEXT="work">
-<node CREATED="1626644661854" FOLDED="true" ID="ID_58304750" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/dualog/" MODIFIED="1626644661858" TEXT="dualog">
-<node CREATED="1626644661856" ID="ID_1173126963" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/dualog/.gitkeep" MODIFIED="1626644661857" TEXT=".gitkeep"/>
+<node CREATED="1626646826747" ID="ID_291507444" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/" MODIFIED="1626647085685" TEXT="work">
+<node CREATED="1626646826749" FOLDED="true" ID="ID_460564425" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/dualog/" MODIFIED="1626646826752" TEXT="dualog">
+<node CREATED="1626646826751" ID="ID_1897324648" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/dualog/.gitkeep" MODIFIED="1626646826752" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661858" ID="ID_1203124875" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/.gitkeep" MODIFIED="1626644661859" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661860" ID="ID_1696062781" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/.gitkeep" MODIFIED="1626644661861" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661861" FOLDED="true" ID="ID_1932608823" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/licences/" MODIFIED="1626644661864" TEXT="licences">
-<node CREATED="1626644661863" ID="ID_531178637" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/licences/.gitkeep" MODIFIED="1626644661864" TEXT=".gitkeep"/>
+<node CREATED="1626646826753" FOLDED="true" ID="ID_495768381" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/licences/" MODIFIED="1626647087645" TEXT="licences">
+<node CREATED="1626646826755" ID="ID_1497638293" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/licences/.gitkeep" MODIFIED="1626646826756" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661864" FOLDED="true" ID="ID_779583574" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/" MODIFIED="1626644661874" TEXT="logs">
-<node CREATED="1626644661866" FOLDED="true" ID="ID_1109848712" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/latex/" MODIFIED="1626644661869" TEXT="latex">
-<node CREATED="1626644661868" ID="ID_1106535552" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/latex/.gitkeep" MODIFIED="1626644661869" TEXT=".gitkeep"/>
+<node CREATED="1626646826757" ID="ID_724681924" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/" MODIFIED="1626647088082" TEXT="logs">
+<node CREATED="1626646826758" FOLDED="true" ID="ID_1127242810" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/latex/" MODIFIED="1626646826762" TEXT="latex">
+<node CREATED="1626646826760" ID="ID_872036368" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/latex/.gitkeep" MODIFIED="1626646826762" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661869" FOLDED="true" ID="ID_853891671" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/python/" MODIFIED="1626644661872" TEXT="python">
-<node CREATED="1626644661871" ID="ID_866153379" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/python/.gitkeep" MODIFIED="1626644661872" TEXT=".gitkeep"/>
+<node CREATED="1626646826762" FOLDED="true" ID="ID_685140676" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/python/" MODIFIED="1626646826765" TEXT="python">
+<node CREATED="1626646826764" ID="ID_1928378431" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/python/.gitkeep" MODIFIED="1626646826765" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661872" ID="ID_55571904" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/.gitkeep" MODIFIED="1626644661873" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661874" FOLDED="true" ID="ID_1112810398" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/" MODIFIED="1626644661884" TEXT="mail">
-<node CREATED="1626644661876" FOLDED="true" ID="ID_1384225154" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/foo.bar@domain.tld/" MODIFIED="1626644661879" TEXT="foo.bar@domain.tld">
-<node CREATED="1626644661877" ID="ID_1986661488" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/foo.bar@domain.tld/.gitkeep" MODIFIED="1626644661879" TEXT=".gitkeep"/>
+<node CREATED="1626646826766" ID="ID_1500824357" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/" MODIFIED="1626647089319" TEXT="mail">
+<node CREATED="1626646826768" FOLDED="true" ID="ID_1118224754" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/foo.bar@domain.tld/" MODIFIED="1626646826771" TEXT="foo.bar@domain.tld">
+<node CREATED="1626646826770" ID="ID_1282671175" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/foo.bar@domain.tld/.gitkeep" MODIFIED="1626646826771" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661879" FOLDED="true" ID="ID_1187422571" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/local.part@domain.tld/" MODIFIED="1626644661882" TEXT="local.part@domain.tld">
-<node CREATED="1626644661881" ID="ID_74963404" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/local.part@domain.tld/.gitkeep" MODIFIED="1626644661882" TEXT=".gitkeep"/>
+<node CREATED="1626646826772" FOLDED="true" ID="ID_1193062932" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/local.part@domain.tld/" MODIFIED="1626646826775" TEXT="local.part@domain.tld">
+<node CREATED="1626646826773" ID="ID_550958778" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/local.part@domain.tld/.gitkeep" MODIFIED="1626646826775" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661882" ID="ID_1953435501" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/.gitkeep" MODIFIED="1626644661883" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661884" ID="ID_1386461768" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/.gitkeep" MODIFIED="1626644661885" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661886" FOLDED="true" ID="ID_813619247" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/" MODIFIED="1626644661913" TEXT="systems">
-<node CREATED="1626644661887" FOLDED="true" ID="ID_1723562033" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/drivers/" MODIFIED="1626644661891" TEXT="drivers">
-<node CREATED="1626644661889" ID="ID_1224671640" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/drivers/.gitkeep" MODIFIED="1626644661890" TEXT=".gitkeep"/>
+<node CREATED="1626646826776" ID="ID_815152827" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/" MODIFIED="1626646880889" TEXT="systems">
+<node CREATED="1626646826777" FOLDED="true" ID="ID_188604216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/drivers/" MODIFIED="1626647091687" TEXT="drivers">
+<node CREATED="1626646826779" ID="ID_83557727" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/drivers/.gitkeep" MODIFIED="1626646826780" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661891" FOLDED="true" ID="ID_806036452" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/firmware/" MODIFIED="1626644661894" TEXT="firmware">
-<node CREATED="1626644661892" ID="ID_1590319109" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/firmware/.gitkeep" MODIFIED="1626644661894" TEXT=".gitkeep"/>
+<node CREATED="1626646826781" FOLDED="true" ID="ID_797271828" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/firmware/" MODIFIED="1626647092434" TEXT="firmware">
+<node CREATED="1626646826783" ID="ID_512674670" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/firmware/.gitkeep" MODIFIED="1626646826784" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661894" FOLDED="true" ID="ID_511605622" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/" MODIFIED="1626644661912" TEXT="os">
-<node CREATED="1626644661896" FOLDED="true" ID="ID_23948364" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/manjaro/" MODIFIED="1626644661899" TEXT="manjaro">
-<node CREATED="1626644661898" ID="ID_1501553001" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/manjaro/.gitkeep" MODIFIED="1626644661899" TEXT=".gitkeep"/>
+<node CREATED="1626646826785" ID="ID_514984767" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/" MODIFIED="1626647092863" TEXT="os">
+<node CREATED="1626646826787" FOLDED="true" ID="ID_1454066516" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/manjaro/" MODIFIED="1626647094467" TEXT="manjaro">
+<node CREATED="1626646826789" ID="ID_1231127486" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/manjaro/.gitkeep" MODIFIED="1626646826790" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661899" FOLDED="true" ID="ID_1580223353" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/ubuntu/" MODIFIED="1626644661903" TEXT="ubuntu">
-<node CREATED="1626644661901" ID="ID_950482415" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/ubuntu/.gitkeep" MODIFIED="1626644661902" TEXT=".gitkeep"/>
+<node CREATED="1626646826790" FOLDED="true" ID="ID_421881082" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/ubuntu/" MODIFIED="1626647095445" TEXT="ubuntu">
+<node CREATED="1626646826792" ID="ID_835006250" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/ubuntu/.gitkeep" MODIFIED="1626646826793" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661903" FOLDED="true" ID="ID_1347494108" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/vms/" MODIFIED="1626644661906" TEXT="vms">
-<node CREATED="1626644661905" ID="ID_1796150469" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/vms/.gitkeep" MODIFIED="1626644661906" TEXT=".gitkeep"/>
+<node CREATED="1626646826794" FOLDED="true" ID="ID_1478767867" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/vms/" MODIFIED="1626647096095" TEXT="vms">
+<node CREATED="1626646826796" ID="ID_1448686029" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/vms/.gitkeep" MODIFIED="1626646826797" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661906" FOLDED="true" ID="ID_321705658" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/windows/" MODIFIED="1626644661910" TEXT="windows">
-<node CREATED="1626644661908" ID="ID_1929759431" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/windows/.gitkeep" MODIFIED="1626644661909" TEXT=".gitkeep"/>
+<node CREATED="1626646826797" FOLDED="true" ID="ID_631867114" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/windows/" MODIFIED="1626647097404" TEXT="windows">
+<node CREATED="1626646826799" ID="ID_618102240" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/windows/.gitkeep" MODIFIED="1626646826800" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661910" ID="ID_541285942" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/.gitkeep" MODIFIED="1626644661911" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661912" ID="ID_520773844" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/.gitkeep" MODIFIED="1626644661913" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661914" ID="ID_1623590266" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/.gitkeep" MODIFIED="1626644661915" TEXT=".gitkeep"/>
 </node>
-<node CREATED="1626644661915" ID="ID_481870517" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/.gitkeep" MODIFIED="1626644661916" POSITION="left" TEXT=".gitkeep"/>
 </node>
 </map>
