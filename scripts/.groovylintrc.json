@@ -1,0 +1,14 @@
+{
+    "extends": "recommended",
+    "rules": {
+        "formatting.Indentation": {
+            "spacesPerIndentLevel": 4,
+            "severity": "info"
+        },
+        "MethodReturnTypeRequired": "off",
+        "MethodParameterTypeRequired": "off",
+        "NoDef": "off",
+        "CompileStatic": "off",
+        "UnnecessaryReturnKeyword": "error"
+    }
+}
