@@ -2,6 +2,7 @@
 
 fix-keep() {
     cd "$1"
+    
     if [ ! -z "$(ls -d */ 2>/dev/null)" ] \
     && [ -f ".gitkeep" ]; then
         git rm .gitkeep 2>/dev/null
@@ -16,6 +17,7 @@ fix-keep() {
         echo "touch $(git rev-parse --show-prefix).gitkeep"
         touch .gitkeep
     fi
+    
     cd - 1>/dev/null
 }
 export -f fix-keep
@@ -25,8 +27,9 @@ main() {
 }
 
 pushd . 1>/dev/null
-cd ../root/
+cd "$(dirname ${BASH_SOURCE[0]})"
+cd ../root
 
-main
+main $@
 
-popd 1>/dev/null
+popd 1> /dev/null

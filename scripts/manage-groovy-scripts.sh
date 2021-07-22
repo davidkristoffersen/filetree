@@ -6,7 +6,9 @@ main() {
     cp -f *.groovy "$scripts_path"
 }
 
-pushd .
+pushd . 1> /dev/null
 cd "$(dirname ${BASH_SOURCE[0]})"
+
 main $@
-popd
+
+popd 1> /dev/null
