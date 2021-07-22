@@ -1,10 +1,10 @@
 <map version="freeplane 1.9.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <attribute_registry SHOW_ATTRIBUTES="hide"/>
-<node TEXT="root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1626731743371" STYLE="oval">
-<font NAME="Roboto Black" SIZE="30" BOLD="false"/>
+<node TEXT="root" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1626977865253" COLOR="#000000" STYLE="oval">
+<font NAME="Roboto Black" SIZE="32" BOLD="false"/>
 <hook NAME="MapStyle" zoom="0.468">
-    <properties show_icon_for_attributes="false" fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true"/>
+    <properties show_icon_for_attributes="false" fit_to_viewport="false" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -69,582 +69,589 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="5" RULE="ON_BRANCH_CREATION"/>
-<attribute NAME="script1" VALUE="def deleteRecurse(def node, def parent) {&#xd;&#xa;    if (!node.children.size) {&#xd;&#xa;        if (node.plainText == &apos;.gitkeep&apos;) {&#xd;&#xa;            println parent.pathToRoot&#xd;&#xa;            node.delete()&#xd;&#xa;        }&#xd;&#xa;        return&#xd;&#xa;    }&#xd;&#xa;    for (child in node.children) {&#xd;&#xa;        deleteRecurse(child, node)&#xd;&#xa;    }&#xd;&#xa;}&#xd;&#xa;&#xd;&#xa;def delete(root) {&#xd;&#xa;    for (child in root.children) {&#xd;&#xa;        deleteRecurse(child, root)&#xd;&#xa;    }&#xd;&#xa;}&#xd;&#xa;&#xd;&#xa;delete(node)&#xd;&#xa;"/>
-<node TEXT="archives" POSITION="left" ID="ID_8425896" CREATED="1626730145610" MODIFIED="1626731757238" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/">
-<edge COLOR="#ff0000"/>
-<font NAME="Roboto Black" SIZE="24" BOLD="false"/>
-<node TEXT="assets" ID="ID_179983387" CREATED="1626730145616" MODIFIED="1626731771623" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/assets/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-</node>
-<node TEXT="backups" ID="ID_709900780" CREATED="1626730145620" MODIFIED="1626731771623" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="applications" ID="ID_730219463" CREATED="1626730145622" MODIFIED="1626731660203" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="mails" ID="ID_684840916" CREATED="1626730145624" MODIFIED="1626731660203" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="foo.bar@domain.tld" ID="ID_949524565" CREATED="1626730145627" MODIFIED="1626731660203" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/foo.bar@domain.tld/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="local.part@domain.tld" ID="ID_1621666299" CREATED="1626730145631" MODIFIED="1626731660203" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/applications/mails/local.part@domain.tld/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-<node TEXT="clouds" ID="ID_1008408565" CREATED="1626730145635" MODIFIED="1626731660203" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/clouds/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="computers" ID="ID_488388442" CREATED="1626730145639" MODIFIED="1626731660203" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/computers/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="phones" ID="ID_1807346364" CREATED="1626730145645" MODIFIED="1626731660204" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/backups/phones/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="installers" ID="ID_158416182" CREATED="1626730145651" MODIFIED="1626731771622" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/archives/installers/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-</node>
-</node>
-<node TEXT="documents" POSITION="left" ID="ID_106192469" CREATED="1626730145655" MODIFIED="1626731757237" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/">
-<edge COLOR="#0000ff"/>
-<font NAME="Roboto Black" SIZE="24" BOLD="false"/>
-<node TEXT="personal" ID="ID_1244630173" CREATED="1626730145657" MODIFIED="1626731771622" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="family" ID="ID_596257895" CREATED="1626730145661" MODIFIED="1626731660204" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="pappa" ID="ID_1954785028" CREATED="1626730145665" MODIFIED="1626731660204" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/family/pappa/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="friends" ID="ID_75966760" CREATED="1626730145669" MODIFIED="1626731660204" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/friends/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="my-writing" ID="ID_782185457" CREATED="1626730145673" MODIFIED="1626731660204" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="diary" ID="ID_1682539101" CREATED="1626730145675" MODIFIED="1626731660204" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/diary/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="notes" ID="ID_1804666999" CREATED="1626730145682" MODIFIED="1626731660205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/my-writing/notes/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="public" ID="ID_811924075" CREATED="1626730145685" MODIFIED="1626731660205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="education" ID="ID_1255231217" CREATED="1626730145687" MODIFIED="1626731660205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="fhs" ID="ID_863383835" CREATED="1626730145689" MODIFIED="1626731660205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="projects" ID="ID_1297770351" CREATED="1626730145692" MODIFIED="1626731660205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="four-horsemen-of-the-dankopalypse" ID="ID_1255307806" CREATED="1626730145696" MODIFIED="1626731660205" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/four-horsemen-of-the-dankopalypse/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="pillow-war" ID="ID_1588318099" CREATED="1626730145701" MODIFIED="1626731660207" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/pillow-war/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="vaselingutta" ID="ID_770485325" CREATED="1626730145705" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/fhs/projects/vaselingutta/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-<node TEXT="uni" ID="ID_317907824" CREATED="1626730145710" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="semester-1" ID="ID_531502744" CREATED="1626730145713" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="subject-1" ID="ID_1538475919" CREATED="1626730145715" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/uni/semester-1/subject-1/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-<node TEXT="vgs" ID="ID_1736948731" CREATED="1626730145720" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/education/vgs/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="identity" ID="ID_455258966" CREATED="1626730145725" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="applications" ID="ID_552769963" CREATED="1626730145728" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/applications/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="cv" ID="ID_1168957922" CREATED="1626730145733" MODIFIED="1626731660208" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/cv/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="diplomas" ID="ID_1485332083" CREATED="1626730145737" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/diplomas/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="passport" ID="ID_1935676456" CREATED="1626730145741" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/passport/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="work-certificates" ID="ID_1514021033" CREATED="1626730145748" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/public/identity/work-certificates/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-<node TEXT="resource" ID="ID_1457100467" CREATED="1626730145752" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="finance" ID="ID_1959271950" CREATED="1626730145754" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="(year)" ID="ID_1587576639" CREATED="1626730145755" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="statements" ID="ID_1135980144" CREATED="1626730145758" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/(year)/statements/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="health" ID="ID_806995371" CREATED="1626730145765" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/finance/health/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="health" ID="ID_543611090" CREATED="1626730145769" MODIFIED="1626731660209" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="eyes" ID="ID_1791958150" CREATED="1626730145771" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="glasses" ID="ID_773865489" CREATED="1626730145773" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/eyes/glasses/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="feet" ID="ID_1046752773" CREATED="1626730145779" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="ingrown-nail" ID="ID_463768508" CREATED="1626730145781" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/feet/ingrown-nail/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="hands" ID="ID_599775242" CREATED="1626730145785" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/hands/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="head" ID="ID_956482642" CREATED="1626730145789" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/head/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="nose" ID="ID_1386086487" CREATED="1626730145796" MODIFIED="1626731660210" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/nose/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="spine" ID="ID_109221421" CREATED="1626730145800" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="skoliosis" ID="ID_274208868" CREATED="1626730145802" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/spine/skoliosis/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="stomach" ID="ID_710168042" CREATED="1626730145807" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/stomach/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="teeth" ID="ID_384975584" CREATED="1626730145812" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/health/teeth/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="home" ID="ID_1732948793" CREATED="1626730145818" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="alta" ID="ID_1055666078" CREATED="1626730145820" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/alta/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="intventory" ID="ID_1749960542" CREATED="1626730145824" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/intventory/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="tromsø" ID="ID_572752646" CREATED="1626730145829" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/tromsø/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="stakkevegen-28" ID="ID_529076137" CREATED="1626730145832" MODIFIED="1626731660211" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/tromsø/stakkevegen-28/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="contracts" ID="ID_1434620887" CREATED="1626730145834" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/tromsø/stakkevegen-28/contracts/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="inventory" ID="ID_340345308" CREATED="1626730145838" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/home/tromsø/stakkevegen-28/inventory/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="scanned-documents" ID="ID_1997421743" CREATED="1626730145842" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/scanned-documents/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="travel" ID="ID_866453712" CREATED="1626730145848" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="(year)" ID="ID_1400735535" CREATED="1626730145849" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="gran-canaria" ID="ID_943616489" CREATED="1626730145851" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/resource/travel/(year)/gran-canaria/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="shared" ID="ID_863452556" CREATED="1626730145856" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="family" ID="ID_1748548673" CREATED="1626730145858" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="pappa" ID="ID_109364748" CREATED="1626730145860" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/family/pappa/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="friends" ID="ID_584277910" CREATED="1626730145864" MODIFIED="1626731660212" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/personal/shared/friends/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-<node TEXT="work" ID="ID_1355844088" CREATED="1626730145868" MODIFIED="1626731771622" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="campus-alta" ID="ID_1609706622" CREATED="1626730145870" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/campus-alta/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="dualog" ID="ID_1118307442" CREATED="1626730145873" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="contracts" ID="ID_1620948584" CREATED="1626730145875" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/contracts/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="meetings" ID="ID_449203281" CREATED="1626730145891" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/meetings/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="project" ID="ID_685281222" CREATED="1626730145896" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="connectionSuite" ID="ID_64427564" CREATED="1626730145898" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuite/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="connectionSuiteServer" ID="ID_65331100" CREATED="1626730145902" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/connectionSuiteServer/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="selfService" ID="ID_780472560" CREATED="1626730145906" MODIFIED="1626731660213" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/selfService/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="shipGUI" ID="ID_1477191208" CREATED="1626730145911" MODIFIED="1626731660214" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUI/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="shipGUIAPI" ID="ID_527022452" CREATED="1626730145915" MODIFIED="1626731660214" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/documents/work/dualog/project/shipGUIAPI/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="downloads" POSITION="right" ID="ID_1242793489" CREATED="1626730145919" MODIFIED="1626731757237" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/downloads/">
+<hook NAME="AutomaticEdgeColor" COUNTER="38" RULE="ON_BRANCH_CREATION"/>
+<attribute NAME="script1" VALUE="// @ExecutionModes({ON_SELECTED_NODE_RECURSIVELY})&#xd;&#xa;if (node.plainText == &apos;.gitkeep&apos;) {&#xd;&#xa;    println parent.pathToRoot&#xd;&#xa;    node.delete()&#xd;&#xa;}"/>
+<attribute NAME="script2" VALUE="// @ExecutionModes({ON_SELECTED_NODE})&#xd;&#xa;boolean overwriteExistingFile = true&#xd;&#xa;def filename = &apos;test-&apos; + node.map.file.name.replaceFirst(&apos;.mm$&apos;, &apos;.pdf&apos;)&#xd;&#xa;c.export(node.map, new File(filename), &apos;Portable Document Format (PDF) (.pdf)&apos;, overwriteExistingFile)"/>
+<attribute NAME="script3" VALUE="import java.io.File&#xd;&#xa;&#xd;&#xa;def runFile(name) {&#xd;&#xa;    file = path + name + &apos;.groovy&apos;&#xd;&#xa;    evaluate(new File(file))&#xd;&#xa;}&#xd;&#xa;&#xd;&#xa;path = c.getUserDirectory().absolutePath + &apos;\\scripts\\&apos;&#xd;&#xa;&#xd;&#xa;runFile(&apos;edit-nodes&apos;)"/>
+<node TEXT="downloads" FOLDED="true" POSITION="left" ID="ID_1056953694" CREATED="1626976464262" MODIFIED="1626977865183" COLOR="#18898b">
 <edge COLOR="#00ff00"/>
-<font NAME="Roboto Black" SIZE="24" BOLD="false"/>
+<font NAME="Roboto Black" SIZE="30"/>
+<cloud COLOR="#f0f0f0" SHAPE="ARC"/>
 </node>
-<node TEXT="software" POSITION="right" ID="ID_928215298" CREATED="1626730146167" MODIFIED="1626731757234" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/">
-<edge COLOR="#00ffff"/>
-<font NAME="Roboto Black" SIZE="24" BOLD="false"/>
-<node TEXT="applications" ID="ID_406686127" CREATED="1626730146169" MODIFIED="1626731771622" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="apps" ID="ID_1741145027" CREATED="1626730146171" MODIFIED="1626731660214" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/apps/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="archives" POSITION="left" ID="ID_1702811413" CREATED="1626976463952" MODIFIED="1626977865188" COLOR="#18898b">
+<edge COLOR="#ff0000"/>
+<font NAME="Roboto Black" SIZE="30"/>
+<cloud COLOR="#f0f0f0" SHAPE="ARC"/>
+<node TEXT="assets" FOLDED="true" ID="ID_1530953613" CREATED="1626976463959" MODIFIED="1626977865183" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
 </node>
-<node TEXT="back-end" ID="ID_1602562006" CREATED="1626730146176" MODIFIED="1626731660214" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/back-end/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="backups" ID="ID_477253793" CREATED="1626976463968" MODIFIED="1626977865187" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="applications" ID="ID_593609564" CREATED="1626976463971" MODIFIED="1626977865185" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="mails" ID="ID_1913902079" CREATED="1626976463973" MODIFIED="1626977865185" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="foo.bar@domain.tld" FOLDED="true" ID="ID_1862928858" CREATED="1626976463975" MODIFIED="1626977865184" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
 </node>
-<node TEXT="desktop" ID="ID_622928080" CREATED="1626730146181" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="discord" ID="ID_278298145" CREATED="1626730146183" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/desktop/discord/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="installers" ID="ID_196395302" CREATED="1626730146189" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/installers/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="os" ID="ID_931366640" CREATED="1626730146194" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/os/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="scripts" ID="ID_1064324048" CREATED="1626730146199" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="c" ID="ID_1174157909" CREATED="1626730146201" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/c/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="python" ID="ID_1027520706" CREATED="1626730146205" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/scripts/python/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="web" ID="ID_596063702" CREATED="1626730146210" MODIFIED="1626731660215" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/applications/web/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="dotfiles" ID="ID_1301028705" CREATED="1626730146216" MODIFIED="1626731771621" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="bin" ID="ID_1075466523" CREATED="1626730146218" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/bin/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="etc" ID="ID_840740182" CREATED="1626730146222" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/etc/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="home" ID="ID_1593592145" CREATED="1626730146227" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="config" ID="ID_1719799021" CREATED="1626730146229" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/home/config/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="lib" ID="ID_297005884" CREATED="1626730146233" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/lib/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="private" ID="ID_995630565" CREATED="1626730146237" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/private/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="share" ID="ID_980838149" CREATED="1626730146242" MODIFIED="1626731660216" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="fonts" ID="ID_1667954746" CREATED="1626730146244" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/share/fonts/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="shell" ID="ID_429596928" CREATED="1626730146249" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/shell/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="src" ID="ID_1692395017" CREATED="1626730146253" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/dotfiles/src/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="resources" ID="ID_1640179643" CREATED="1626730146257" MODIFIED="1626731771621" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="bookmarks" ID="ID_1963100656" CREATED="1626730146259" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="education" ID="ID_1505168602" CREATED="1626730146261" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/education/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="personal" ID="ID_240856320" CREATED="1626730146265" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="health" ID="ID_179767288" CREATED="1626730146267" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/personal/health/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="work" ID="ID_393681653" CREATED="1626730146271" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="dualog" ID="ID_1627777816" CREATED="1626730146273" MODIFIED="1626731660217" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/bookmarks/work/dualog/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="local.part@domain.tld" FOLDED="true" ID="ID_1362329007" CREATED="1626976463980" MODIFIED="1626977865184" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
 </node>
 </node>
 </node>
-<node TEXT="licences" ID="ID_1965606465" CREATED="1626730146277" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/licences/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="clouds" FOLDED="true" ID="ID_856273252" CREATED="1626976463985" MODIFIED="1626977865185" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="logs" ID="ID_1119021539" CREATED="1626730146280" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="latex" ID="ID_1271942014" CREATED="1626730146282" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/latex/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="computers" FOLDED="true" ID="ID_1614220749" CREATED="1626976463991" MODIFIED="1626977865186" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="python" ID="ID_1462886691" CREATED="1626730146286" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/logs/python/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="phones" FOLDED="true" ID="ID_1103596872" CREATED="1626976463996" MODIFIED="1626977865186" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
 </node>
-<node TEXT="mail" ID="ID_4140736" CREATED="1626730146290" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="foo.bar@domain.tld" ID="ID_1245573047" CREATED="1626730146292" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/foo.bar@domain.tld/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="local.part@domain.tld" ID="ID_533669783" CREATED="1626730146296" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/resources/mail/local.part@domain.tld/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="installers" FOLDED="true" ID="ID_1990592266" CREATED="1626976464001" MODIFIED="1626977865187" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
 </node>
 </node>
-</node>
-<node TEXT="systems" ID="ID_1444333269" CREATED="1626730146300" MODIFIED="1626731771619" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="drivers" ID="ID_1973194251" CREATED="1626730146301" MODIFIED="1626731660218" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/drivers/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="firmware" ID="ID_1595887157" CREATED="1626730146305" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/firmware/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="os" ID="ID_928841225" CREATED="1626730146308" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="manjaro" ID="ID_882805018" CREATED="1626730146310" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/manjaro/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="ubuntu" ID="ID_1267079923" CREATED="1626730146314" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/ubuntu/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="vms" ID="ID_1941087419" CREATED="1626730146317" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/vms/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="windows" ID="ID_362362353" CREATED="1626730146321" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/software/systems/os/windows/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-</node>
-</node>
-<node TEXT="media" POSITION="right" ID="ID_1003280536" CREATED="1626730145923" MODIFIED="1626731757237" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/">
+<node TEXT="media" POSITION="left" ID="ID_927093043" CREATED="1626976464266" MODIFIED="1626977865212" COLOR="#18898b">
 <edge COLOR="#ff00ff"/>
-<font NAME="Roboto Black" SIZE="24" BOLD="false"/>
-<node TEXT="adult" ID="ID_1049591827" CREATED="1626730145925" MODIFIED="1626731816277" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="audio" ID="ID_1181391794" CREATED="1626730145927" MODIFIED="1626731660219" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/audio/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<font NAME="Roboto Black" SIZE="30"/>
+<cloud COLOR="#f0f0f0" SHAPE="ARC"/>
+<node TEXT="adult" ID="ID_538071500" CREATED="1626976464268" MODIFIED="1626977865190" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="audio" FOLDED="true" ID="ID_66100610" CREATED="1626976464270" MODIFIED="1626977865188" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="games" ID="ID_449243363" CREATED="1626730145930" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/games/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="games" FOLDED="true" ID="ID_1724568161" CREATED="1626976464275" MODIFIED="1626977865188" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="images" ID="ID_346398728" CREATED="1626730145934" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/images/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="images" FOLDED="true" ID="ID_1991393896" CREATED="1626976464279" MODIFIED="1626977865189" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="literature" ID="ID_1636459384" CREATED="1626730145937" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/literature/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="literature" FOLDED="true" ID="ID_1125127645" CREATED="1626976464283" MODIFIED="1626977865189" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="video" ID="ID_45000801" CREATED="1626730145941" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/adult/video/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="audio" ID="ID_1878162856" CREATED="1626730145945" MODIFIED="1626731816277" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="books" ID="ID_1640206000" CREATED="1626730145947" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/books/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="music" ID="ID_855480734" CREATED="1626730145950" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="ringtones" ID="ID_1216291859" CREATED="1626730145952" MODIFIED="1626731660220" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/ringtones/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="soundtracks" ID="ID_1365851206" CREATED="1626730145956" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/music/soundtracks/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="video" FOLDED="true" ID="ID_747676466" CREATED="1626976464287" MODIFIED="1626977865190" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
 </node>
-<node TEXT="my-audio" ID="ID_253369984" CREATED="1626730145959" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/my-audio/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="audio" ID="ID_1844815704" CREATED="1626976464292" MODIFIED="1626977865193" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="books" FOLDED="true" ID="ID_1041962228" CREATED="1626976464294" MODIFIED="1626977865190" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="recordings" ID="ID_1405718402" CREATED="1626730145963" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/audio/recordings/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="music" ID="ID_436904859" CREATED="1626976464298" MODIFIED="1626977865191" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="ringtones" FOLDED="true" ID="ID_1275397831" CREATED="1626976464300" MODIFIED="1626977865191" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-</node>
-<node TEXT="games" ID="ID_1430467979" CREATED="1626730145967" MODIFIED="1626731816276" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="browser" ID="ID_1536790128" CREATED="1626730145970" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/browser/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="computer" ID="ID_327200475" CREATED="1626730145973" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="minecraft" ID="ID_1138643688" CREATED="1626730145975" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/minecraft/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="osu!" ID="ID_1115528968" CREATED="1626730145979" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/computer/osu!/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="soundtracks" FOLDED="true" ID="ID_454698105" CREATED="1626976464305" MODIFIED="1626977865191" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
 </node>
-<node TEXT="console" ID="ID_1323203771" CREATED="1626730145983" MODIFIED="1626731660221" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/console/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="my-audio" FOLDED="true" ID="ID_1843964079" CREATED="1626976464309" MODIFIED="1626977865192" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="handheld" ID="ID_79697066" CREATED="1626730145987" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/games/handheld/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-</node>
-<node TEXT="images" ID="ID_134878722" CREATED="1626730145991" MODIFIED="1626731816276" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="artwork" ID="ID_1975355809" CREATED="1626730145993" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="digital-art" ID="ID_169366369" CREATED="1626730145994" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/digital-art/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="physical-art" ID="ID_369613198" CREATED="1626730145999" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/artwork/physical-art/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="recordings" FOLDED="true" ID="ID_1655597742" CREATED="1626976464313" MODIFIED="1626977865192" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
 </node>
-<node TEXT="charts" ID="ID_1992557500" CREATED="1626730146004" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/charts/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="games" ID="ID_1521468820" CREATED="1626976464318" MODIFIED="1626977865195" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="browser" FOLDED="true" ID="ID_1379042547" CREATED="1626976464319" MODIFIED="1626977865193" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="memes" ID="ID_1844274379" CREATED="1626730146008" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/memes/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="computer" ID="ID_655316070" CREATED="1626976464324" MODIFIED="1626977865194" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="minecraft" FOLDED="true" ID="ID_1123244528" CREATED="1626976464325" MODIFIED="1626977865193" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="my-images" ID="ID_434673809" CREATED="1626730146011" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="family" ID="ID_448986157" CREATED="1626730146013" MODIFIED="1626731660222" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/family/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="friends" ID="ID_47774712" CREATED="1626730146017" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/friends/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="personal" ID="ID_697355888" CREATED="1626730146021" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/personal/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="work" ID="ID_1445929901" CREATED="1626730146026" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/my-images/work/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="osu!" FOLDED="true" ID="ID_1939231220" CREATED="1626976464329" MODIFIED="1626977865194" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
 </node>
-<node TEXT="purpose-based" ID="ID_261293167" CREATED="1626730146030" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="backgrounds" ID="ID_1693713498" CREATED="1626730146032" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/backgrounds/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="console" FOLDED="true" ID="ID_325020784" CREATED="1626976464334" MODIFIED="1626977865195" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="icons" ID="ID_951130800" CREATED="1626730146036" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/icons/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="logos" ID="ID_907434047" CREATED="1626730146040" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/logos/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="profile-pics" ID="ID_1900793907" CREATED="1626730146044" MODIFIED="1626731660223" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/purpose-based/profile-pics/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="handheld" FOLDED="true" ID="ID_1549488671" CREATED="1626976464337" MODIFIED="1626977865195" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
 </node>
-<node TEXT="screenshots" ID="ID_1400669382" CREATED="1626730146049" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="facebook" ID="ID_1369148875" CREATED="1626730146050" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/facebook/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="images" ID="ID_1707644609" CREATED="1626976464341" MODIFIED="1626977865203" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="artwork" ID="ID_1711049332" CREATED="1626976464343" MODIFIED="1626977865196" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="digital-art" FOLDED="true" ID="ID_171511413" CREATED="1626976464345" MODIFIED="1626977865196" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="minecraft" ID="ID_1002074835" CREATED="1626730146054" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/minecraft/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="osu!" ID="ID_319386911" CREATED="1626730146058" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/osu!/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="sms" ID="ID_1646827955" CREATED="1626730146063" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/sms/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="snapchat" ID="ID_1078092765" CREATED="1626730146067" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/images/screenshots/snapchat/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="physical-art" FOLDED="true" ID="ID_575957315" CREATED="1626976464350" MODIFIED="1626977865196" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
 </node>
+<node TEXT="charts" FOLDED="true" ID="ID_1791746703" CREATED="1626976464354" MODIFIED="1626977865197" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="literature" ID="ID_1115854313" CREATED="1626730146071" MODIFIED="1626731816275" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="cartoons" ID="ID_386493424" CREATED="1626730146073" MODIFIED="1626731660224" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/cartoons/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="memes" FOLDED="true" ID="ID_1826954780" CREATED="1626976464358" MODIFIED="1626977865197" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
 </node>
-<node TEXT="ebooks" ID="ID_868562785" CREATED="1626730146077" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/ebooks/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="my-images" ID="ID_760341906" CREATED="1626976464362" MODIFIED="1626977865199" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="family" FOLDED="true" ID="ID_577245384" CREATED="1626976464364" MODIFIED="1626977865198" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="manga" ID="ID_496187676" CREATED="1626730146081" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/literature/manga/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="friends" FOLDED="true" ID="ID_1791810220" CREATED="1626976464368" MODIFIED="1626977865198" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
+<node TEXT="personal" FOLDED="true" ID="ID_266706809" CREATED="1626976464373" MODIFIED="1626977865198" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="videos" ID="ID_1936597384" CREATED="1626730146084" MODIFIED="1626731816272" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/">
-<font NAME="Roboto Black" SIZE="20" BOLD="false"/>
-<node TEXT="anime" ID="ID_1956883478" CREATED="1626730146087" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="movies" ID="ID_603376629" CREATED="1626730146089" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/movies/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="shows" ID="ID_64336967" CREATED="1626730146093" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/anime/shows/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="work" FOLDED="true" ID="ID_1603386946" CREATED="1626976464377" MODIFIED="1626977865199" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
 </node>
-<node TEXT="cartoons" ID="ID_1360482496" CREATED="1626730146096" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="movies" ID="ID_814597251" CREATED="1626730146099" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/movies/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="purpose-based" ID="ID_1928915976" CREATED="1626976464381" MODIFIED="1626977865201" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="backgrounds" FOLDED="true" ID="ID_1072509531" CREATED="1626976464383" MODIFIED="1626977865199" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="shows" ID="ID_659326659" CREATED="1626730146104" MODIFIED="1626731660225" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/cartoons/shows/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="icons" FOLDED="true" ID="ID_1080873414" CREATED="1626976464387" MODIFIED="1626977865200" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
+<node TEXT="logos" FOLDED="true" ID="ID_648014858" CREATED="1626976464392" MODIFIED="1626977865200" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="movies" ID="ID_213511048" CREATED="1626730146108" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="documentaries" ID="ID_884298087" CREATED="1626730146110" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/documentaries/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="short-films" ID="ID_1884591174" CREATED="1626730146115" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/short-films/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-</node>
-<node TEXT="timelapses" ID="ID_112372526" CREATED="1626730146120" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/movies/timelapses/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="profile-pics" FOLDED="true" ID="ID_1616539875" CREATED="1626976464396" MODIFIED="1626977865200" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
 </node>
-<node TEXT="my-videos" ID="ID_1458091205" CREATED="1626730146126" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/my-videos/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="screenshots" ID="ID_401701563" CREATED="1626976464400" MODIFIED="1626977865203" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="facebook" FOLDED="true" ID="ID_1347086212" CREATED="1626976464403" MODIFIED="1626977865201" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="screencasts" ID="ID_1401804403" CREATED="1626730146131" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/screencasts/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="minecraft" FOLDED="true" ID="ID_88902992" CREATED="1626976464407" MODIFIED="1626977865201" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="shows" ID="ID_286000265" CREATED="1626730146136" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/shows/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="osu!" FOLDED="true" ID="ID_1904313199" CREATED="1626976464411" MODIFIED="1626977865202" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="web" ID="ID_1281333534" CREATED="1626730146142" MODIFIED="1626731660226" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
-<node TEXT="clips" ID="ID_1522344450" CREATED="1626730146144" MODIFIED="1626731660227" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/clips/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="sms" FOLDED="true" ID="ID_121687709" CREATED="1626976464415" MODIFIED="1626977865202" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="gifs" ID="ID_1594037613" CREATED="1626730146150" MODIFIED="1626731660227" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/gifs/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+<node TEXT="snapchat" FOLDED="true" ID="ID_1166930871" CREATED="1626976464419" MODIFIED="1626977865202" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
 </node>
-<node TEXT="memes" ID="ID_1432243035" CREATED="1626730146155" MODIFIED="1626731660227" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/memes/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
 </node>
-<node TEXT="music-videos" ID="ID_1833620322" CREATED="1626730146161" MODIFIED="1626731660227" LINK="file:/C:/Users/divad/Documents/datacurator/filetree/root/media/videos/web/music-videos/">
-<font NAME="Roboto Black" SIZE="16" BOLD="false"/>
+</node>
+<node TEXT="literature" ID="ID_1598139260" CREATED="1626976464424" MODIFIED="1626977865204" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="cartoons" FOLDED="true" ID="ID_510917628" CREATED="1626976464426" MODIFIED="1626977865203" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="ebooks" FOLDED="true" ID="ID_1739676343" CREATED="1626976464429" MODIFIED="1626977865204" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="manga" FOLDED="true" ID="ID_1794270986" CREATED="1626976464433" MODIFIED="1626977865204" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+</node>
+<node TEXT="videos" ID="ID_1854080307" CREATED="1626976464437" MODIFIED="1626977865212" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="anime" ID="ID_1366523161" CREATED="1626976464439" MODIFIED="1626977865205" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="movies" FOLDED="true" ID="ID_493221966" CREATED="1626976464442" MODIFIED="1626977865205" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="shows" FOLDED="true" ID="ID_1376617772" CREATED="1626976464445" MODIFIED="1626977865205" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="cartoons" ID="ID_230156433" CREATED="1626976464449" MODIFIED="1626977865207" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="movies" FOLDED="true" ID="ID_1070859209" CREATED="1626976464451" MODIFIED="1626977865206" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="shows" FOLDED="true" ID="ID_726280183" CREATED="1626976464455" MODIFIED="1626977865206" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="movies" ID="ID_251560615" CREATED="1626976464460" MODIFIED="1626977865208" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="documentaries" FOLDED="true" ID="ID_921015240" CREATED="1626976464461" MODIFIED="1626977865207" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="short-films" FOLDED="true" ID="ID_241251634" CREATED="1626976464465" MODIFIED="1626977865208" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="timelapses" FOLDED="true" ID="ID_341892301" CREATED="1626976464469" MODIFIED="1626977865208" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="my-videos" FOLDED="true" ID="ID_1418921500" CREATED="1626976464474" MODIFIED="1626977865209" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="screencasts" FOLDED="true" ID="ID_844383707" CREATED="1626976464477" MODIFIED="1626977865209" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="shows" FOLDED="true" ID="ID_1240306811" CREATED="1626976464481" MODIFIED="1626977865210" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="web" ID="ID_1320129640" CREATED="1626976464485" MODIFIED="1626977865211" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="clips" FOLDED="true" ID="ID_318692776" CREATED="1626976464486" MODIFIED="1626977865210" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="gifs" FOLDED="true" ID="ID_1397047930" CREATED="1626976464491" MODIFIED="1626977865210" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="memes" FOLDED="true" ID="ID_334585917" CREATED="1626976464495" MODIFIED="1626977865211" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="music-videos" FOLDED="true" ID="ID_991025924" CREATED="1626976464499" MODIFIED="1626977865211" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="software" POSITION="right" ID="ID_1481843561" CREATED="1626976464504" MODIFIED="1626977865228" COLOR="#18898b">
+<edge COLOR="#00ffff"/>
+<font NAME="Roboto Black" SIZE="30"/>
+<cloud COLOR="#f0f0f0" SHAPE="ARC"/>
+<node TEXT="applications" ID="ID_145716632" CREATED="1626976464506" MODIFIED="1626977865216" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="apps" FOLDED="true" ID="ID_1388881330" CREATED="1626976464508" MODIFIED="1626977865212" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="back-end" FOLDED="true" ID="ID_865499958" CREATED="1626976464513" MODIFIED="1626977865213" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="desktop" ID="ID_1725710354" CREATED="1626976464517" MODIFIED="1626977865214" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="discord" FOLDED="true" ID="ID_1925694398" CREATED="1626976464518" MODIFIED="1626977865213" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="installers" FOLDED="true" ID="ID_401942435" CREATED="1626976464523" MODIFIED="1626977865214" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="os" FOLDED="true" ID="ID_1328159794" CREATED="1626976464527" MODIFIED="1626977865214" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="scripts" ID="ID_1530584454" CREATED="1626976464531" MODIFIED="1626977865215" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="c" FOLDED="true" ID="ID_1126117088" CREATED="1626976464533" MODIFIED="1626977865215" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="python" FOLDED="true" ID="ID_1867798380" CREATED="1626976464537" MODIFIED="1626977865215" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="web" FOLDED="true" ID="ID_609574131" CREATED="1626976464542" MODIFIED="1626977865216" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+</node>
+<node TEXT="dotfiles" ID="ID_492002374" CREATED="1626976464546" MODIFIED="1626977865220" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="bin" FOLDED="true" ID="ID_32568429" CREATED="1626976464548" MODIFIED="1626977865217" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="etc" FOLDED="true" ID="ID_1635021539" CREATED="1626976464551" MODIFIED="1626977865217" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="home" ID="ID_958450007" CREATED="1626976464555" MODIFIED="1626977865218" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="config" FOLDED="true" ID="ID_26506873" CREATED="1626976464557" MODIFIED="1626977865217" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="lib" FOLDED="true" ID="ID_1047636321" CREATED="1626976464561" MODIFIED="1626977865218" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="private" FOLDED="true" ID="ID_1196363676" CREATED="1626976464565" MODIFIED="1626977865219" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="share" ID="ID_134535995" CREATED="1626976464569" MODIFIED="1626977865219" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="fonts" FOLDED="true" ID="ID_1944689739" CREATED="1626976464571" MODIFIED="1626977865219" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="shell" FOLDED="true" ID="ID_830850446" CREATED="1626976464575" MODIFIED="1626977865220" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="src" FOLDED="true" ID="ID_1948351218" CREATED="1626976464579" MODIFIED="1626977865220" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+</node>
+<node TEXT="resources" ID="ID_323223603" CREATED="1626976464583" MODIFIED="1626977865225" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="bookmarks" ID="ID_342570959" CREATED="1626976464585" MODIFIED="1626977865222" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="education" FOLDED="true" ID="ID_948902703" CREATED="1626976464587" MODIFIED="1626977865221" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="personal" ID="ID_1342394209" CREATED="1626976464591" MODIFIED="1626977865221" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="health" FOLDED="true" ID="ID_37662289" CREATED="1626976464593" MODIFIED="1626977865221" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="work" ID="ID_526321046" CREATED="1626976464597" MODIFIED="1626977865222" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="dualog" FOLDED="true" ID="ID_826364428" CREATED="1626976464599" MODIFIED="1626977865222" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+</node>
+<node TEXT="licences" FOLDED="true" ID="ID_663878188" CREATED="1626976464603" MODIFIED="1626977865223" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="logs" ID="ID_294974383" CREATED="1626976464607" MODIFIED="1626977865224" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="latex" FOLDED="true" ID="ID_222542490" CREATED="1626976464609" MODIFIED="1626977865223" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="python" FOLDED="true" ID="ID_1494940241" CREATED="1626976464613" MODIFIED="1626977865224" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="mail" ID="ID_1227062098" CREATED="1626976464617" MODIFIED="1626977865225" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="foo.bar@domain.tld" FOLDED="true" ID="ID_280825880" CREATED="1626976464620" MODIFIED="1626977865224" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="local.part@domain.tld" FOLDED="true" ID="ID_665467718" CREATED="1626976464624" MODIFIED="1626977865224" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+</node>
+<node TEXT="systems" ID="ID_212020101" CREATED="1626976464629" MODIFIED="1626977865228" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="drivers" FOLDED="true" ID="ID_363785743" CREATED="1626976464631" MODIFIED="1626977865226" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="firmware" FOLDED="true" ID="ID_649273317" CREATED="1626976464634" MODIFIED="1626977865226" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="os" ID="ID_3254323" CREATED="1626976464639" MODIFIED="1626977865228" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="manjaro" FOLDED="true" ID="ID_646720565" CREATED="1626976464641" MODIFIED="1626977865226" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="ubuntu" FOLDED="true" ID="ID_948247989" CREATED="1626976464645" MODIFIED="1626977865227" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="vms" FOLDED="true" ID="ID_699961200" CREATED="1626976464649" MODIFIED="1626977865227" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="windows" FOLDED="true" ID="ID_967406800" CREATED="1626976464653" MODIFIED="1626977865227" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="documents" POSITION="right" ID="ID_684657805" CREATED="1626976464007" MODIFIED="1626977865250" COLOR="#18898b">
+<edge COLOR="#0000ff"/>
+<font NAME="Roboto Black" SIZE="30"/>
+<cloud COLOR="#f0f0f0" SHAPE="ARC"/>
+<node TEXT="personal" ID="ID_451869818" CREATED="1626976464010" MODIFIED="1626977865246" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="family" ID="ID_115473231" CREATED="1626976464012" MODIFIED="1626977865229" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="pappa" FOLDED="true" ID="ID_1980872239" CREATED="1626976464015" MODIFIED="1626977865229" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="friends" FOLDED="true" ID="ID_1606513131" CREATED="1626976464019" MODIFIED="1626977865230" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="my-writing" ID="ID_675077492" CREATED="1626976464024" MODIFIED="1626977865230" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="diary" FOLDED="true" ID="ID_1418977360" CREATED="1626976464027" MODIFIED="1626977865230" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="notes" FOLDED="true" ID="ID_1538198619" CREATED="1626976464032" MODIFIED="1626977865230" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+<node TEXT="public" ID="ID_1019297738" CREATED="1626976464036" MODIFIED="1626977865236" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="education" ID="ID_1850980241" CREATED="1626976464039" MODIFIED="1626977865233" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="fhs" ID="ID_1525940905" CREATED="1626976464041" MODIFIED="1626977865232" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="projects" ID="ID_978614763" CREATED="1626976464044" MODIFIED="1626977865232" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="four-horsemen-of-the-dankopalypse" FOLDED="true" ID="ID_98621408" CREATED="1626976464047" MODIFIED="1626977865231" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="pillow-war" FOLDED="true" ID="ID_589464044" CREATED="1626976464052" MODIFIED="1626977865231" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="vaselingutta" FOLDED="true" ID="ID_668419669" CREATED="1626976464057" MODIFIED="1626977865231" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+</node>
+<node TEXT="uni" ID="ID_1260357232" CREATED="1626976464062" MODIFIED="1626977865233" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="semester-1" ID="ID_1146842335" CREATED="1626976464065" MODIFIED="1626977865233" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="subject-1" FOLDED="true" ID="ID_1948232420" CREATED="1626976464067" MODIFIED="1626977865232" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+</node>
+<node TEXT="vgs" FOLDED="true" ID="ID_1514875838" CREATED="1626976464072" MODIFIED="1626977865233" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="identity" ID="ID_1010452693" CREATED="1626976464077" MODIFIED="1626977865235" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="applications" FOLDED="true" ID="ID_246475907" CREATED="1626976464080" MODIFIED="1626977865234" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="cv" FOLDED="true" ID="ID_468810163" CREATED="1626976464084" MODIFIED="1626977865234" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="diplomas" FOLDED="true" ID="ID_1992867472" CREATED="1626976464088" MODIFIED="1626977865234" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="passport" FOLDED="true" ID="ID_1104135170" CREATED="1626976464094" MODIFIED="1626977865235" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="work-certificates" FOLDED="true" ID="ID_795170670" CREATED="1626976464098" MODIFIED="1626977865235" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+</node>
+<node TEXT="resource" ID="ID_1315877474" CREATED="1626976464103" MODIFIED="1626977865244" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="finance" ID="ID_1930748230" CREATED="1626976464105" MODIFIED="1626977865237" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="(year)" ID="ID_479202607" CREATED="1626976464108" MODIFIED="1626977865236" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="statements" FOLDED="true" ID="ID_196916559" CREATED="1626976464110" MODIFIED="1626977865236" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="health" FOLDED="true" ID="ID_1425127694" CREATED="1626976464115" MODIFIED="1626977865236" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="health" ID="ID_685600629" CREATED="1626976464119" MODIFIED="1626977865241" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="eyes" ID="ID_1696962188" CREATED="1626976464122" MODIFIED="1626977865237" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="glasses" FOLDED="true" ID="ID_1557785580" CREATED="1626976464124" MODIFIED="1626977865237" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="feet" ID="ID_1827042763" CREATED="1626976464129" MODIFIED="1626977865238" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="ingrown-nail" FOLDED="true" ID="ID_925672452" CREATED="1626976464131" MODIFIED="1626977865238" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="hands" FOLDED="true" ID="ID_587553492" CREATED="1626976464135" MODIFIED="1626977865238" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="head" FOLDED="true" ID="ID_323409840" CREATED="1626976464141" MODIFIED="1626977865239" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="nose" FOLDED="true" ID="ID_1168040929" CREATED="1626976464147" MODIFIED="1626977865239" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="spine" ID="ID_1483485209" CREATED="1626976464151" MODIFIED="1626977865240" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="skoliosis" FOLDED="true" ID="ID_544580068" CREATED="1626976464153" MODIFIED="1626977865239" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="stomach" FOLDED="true" ID="ID_1577241298" CREATED="1626976464158" MODIFIED="1626977865240" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="teeth" FOLDED="true" ID="ID_1530775658" CREATED="1626976464163" MODIFIED="1626977865240" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="home" ID="ID_408166465" CREATED="1626976464167" MODIFIED="1626977865243" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="alta" FOLDED="true" ID="ID_940034272" CREATED="1626976464169" MODIFIED="1626977865241" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="intventory" FOLDED="true" ID="ID_218667968" CREATED="1626976464174" MODIFIED="1626977865241" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="tromsø" ID="ID_1265995547" CREATED="1626976464179" MODIFIED="1626977865242" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="stakkevegen-28" ID="ID_1763204397" CREATED="1626976464181" MODIFIED="1626977865242" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="contracts" FOLDED="true" ID="ID_1675075803" CREATED="1626976464183" MODIFIED="1626977865241" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="inventory" FOLDED="true" ID="ID_356981864" CREATED="1626976464188" MODIFIED="1626977865242" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="scanned-documents" FOLDED="true" ID="ID_1013110801" CREATED="1626976464193" MODIFIED="1626977865243" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="travel" ID="ID_957688768" CREATED="1626976464198" MODIFIED="1626977865244" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="(year)" ID="ID_1608863962" CREATED="1626976464200" MODIFIED="1626977865244" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+<node TEXT="gran-canaria" FOLDED="true" ID="ID_116151995" CREATED="1626976464202" MODIFIED="1626977865243" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+<node TEXT="shared" ID="ID_840689072" CREATED="1626976464208" MODIFIED="1626977865245" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="family" ID="ID_1759965170" CREATED="1626976464210" MODIFIED="1626977865245" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="pappa" FOLDED="true" ID="ID_339867308" CREATED="1626976464212" MODIFIED="1626977865244" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+</node>
+<node TEXT="friends" FOLDED="true" ID="ID_1092463419" CREATED="1626976464216" MODIFIED="1626977865245" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+</node>
+</node>
+<node TEXT="work" ID="ID_208624800" CREATED="1626976464221" MODIFIED="1626977865249" COLOR="#cc3300">
+<font NAME="Roboto Black" SIZE="24"/>
+<node TEXT="campus-alta" FOLDED="true" ID="ID_695172483" CREATED="1626976464223" MODIFIED="1626977865246" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+</node>
+<node TEXT="dualog" ID="ID_576224511" CREATED="1626976464227" MODIFIED="1626977865249" COLOR="#669900">
+<font NAME="Roboto Black" SIZE="20"/>
+<node TEXT="contracts" FOLDED="true" ID="ID_1008081684" CREATED="1626976464229" MODIFIED="1626977865246" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="meetings" FOLDED="true" ID="ID_1686439638" CREATED="1626976464233" MODIFIED="1626977865247" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+</node>
+<node TEXT="project" ID="ID_1068427458" CREATED="1626976464238" MODIFIED="1626977865249" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="18"/>
+<node TEXT="connectionSuite" FOLDED="true" ID="ID_670083182" CREATED="1626976464240" MODIFIED="1626977865247" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="connectionSuiteServer" FOLDED="true" ID="ID_1615666776" CREATED="1626976464244" MODIFIED="1626977865247" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="selfService" FOLDED="true" ID="ID_1002610977" CREATED="1626976464249" MODIFIED="1626977865248" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="shipGUI" FOLDED="true" ID="ID_1475103334" CREATED="1626976464253" MODIFIED="1626977865248" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
+<node TEXT="shipGUIAPI" FOLDED="true" ID="ID_740028371" CREATED="1626976464257" MODIFIED="1626977865248" COLOR="#000000">
+<font NAME="Roboto Black" SIZE="14"/>
+</node>
 </node>
 </node>
 </node>
