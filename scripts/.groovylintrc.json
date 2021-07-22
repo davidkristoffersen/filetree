@@ -6,6 +6,7 @@
     "MethodParameterTypeRequired": "off",
     "MethodReturnTypeRequired": "off",
     "NoDef": "off",
+    "ClassJavadoc": "off",
     "UnnecessaryReturnKeyword": "error",
     "formatting.Indentation": {
       "spacesPerIndentLevel": 4,
