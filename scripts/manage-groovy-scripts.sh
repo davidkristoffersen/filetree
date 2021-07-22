@@ -1,9 +1,9 @@
 #!/bin/bash
 
 main() {
-    scripts_path="$WIN_HOME/AppData/Roaming/Freeplane/1.9.x/scripts/"
+    scripts_path="$WIN_HOME/AppData/Roaming/Freeplane/1.9.x/scripts"
     mkdir -p "$scripts_path"
-    cp -f *.groovy "$scripts_path"
+    cp -f *.groovy "$scripts_path/"
 }
 
 pushd . 1> /dev/null
