@@ -4,16 +4,8 @@
         {
             "type": "bashdb",
             "request": "launch",
-            "name": "Bash-Debug (select)",
-            "cwd": "${workspaceFolder}",
-            "program": "${command:SelectScriptName}",
-            "terminalKind": "integrated",
-            "args": []
-        },
-        {
-            "type": "bashdb",
-            "request": "launch",
             "name": "Bash-Debug",
+            "cwd": "${workspaceFolder}",
             "program": "${file}",
             "terminalKind": "integrated"
         }
