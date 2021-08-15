@@ -28,7 +28,7 @@ main() {
 
 pushd . 1>/dev/null
 cd "$(dirname ${BASH_SOURCE[0]})"
-cd ../root
+cd root
 
 main $@
 
